@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="529.215" viewBox="0 0 610 529.215">
+  <g id="Grupo_152765" data-name="Grupo 152765" transform="translate(-495 -8132.588)">
+    <g id="Grupo_152764" data-name="Grupo 152764">
+      <g id="Grupo_150006" data-name="Grupo 150006" transform="translate(319 -398.079)">
+        <path id="Trazado_200444" data-name="Trazado 200444" d="M-.688,352.81" transform="translate(710.665 8277.357)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1.098"/>
+        <g id="Grupo_149647" data-name="Grupo 149647" transform="translate(176 8530.667)">
+          <path id="Trazado_201689" data-name="Trazado 201689" d="M0,0H604.263l1.388,94.194H0Z" transform="translate(2.771 0)" fill="#edf6e4"/>
+          <g id="Trazado_200446" data-name="Trazado 200446" fill="none">
+            <path d="M0,0H610V528.666H0Z" stroke="none"/>
+            <path d="M 2.99993896484375 3 L 2.99993896484375 525.666259765625 L 606.9998779296875 525.666259765625 L 606.9998779296875 3 L 2.99993896484375 3 M -6.103515625e-05 0 L 609.9998779296875 0 L 609.9998779296875 528.666259765625 L -6.103515625e-05 528.666259765625 L -6.103515625e-05 0 Z" stroke="none" fill="#75b62f"/>
+          </g>
+          <path id="Trazado_200445" data-name="Trazado 200445" d="M0,0V434.472" transform="translate(292.416 94.195)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1.098"/>
+          <path id="Trazado_200444-2" data-name="Trazado 200444" d="M-.688,352.81" transform="translate(191.576 -10.476)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1.098"/>
+          <path id="Trazado_201691" data-name="Trazado 201691" d="M0,0H609.5" transform="translate(0.5 96.306)" fill="none" stroke="#75b62f" stroke-width="3"/>
+          <path id="Trazado_201692" data-name="Trazado 201692" d="M0,0H608.422" transform="translate(0 50.306)" fill="none" stroke="#75b62f" stroke-width="3"/>
+          <line id="Línea_1126" data-name="Línea 1126" x2="607.5" transform="translate(0.5 210.786)" fill="none" stroke="#707070" stroke-width="1"/>
+          <path id="Trazado_201690" data-name="Trazado 201690" d="M1178.229,0" transform="translate(-580.229 224.946)" fill="none" stroke="#707070" stroke-width="1"/>
+          <path id="Trazado_201688" data-name="Trazado 201688" d="M0,0H610" transform="translate(0 346.722)" fill="none" stroke="#707070" stroke-width="1"/>
+        </g>
+        <text id="Empleado" transform="translate(314.706 8608)" fill="#12263f" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-33.464" y="0">Empleado</tspan></text>
+        <g id="Grupo_150002" data-name="Grupo 150002" transform="translate(216.17 8635)">
+          <circle id="Elipse_12655" data-name="Elipse 12655" cx="3" cy="3" r="3" transform="translate(0 47)" fill="#75b62f"/>
+          <circle id="Elipse_12656" data-name="Elipse 12656" cx="3" cy="3" r="3" transform="translate(0 65)" fill="#75b62f"/>
+          <text id="Deducciones_4_Salud._4_Pensión." data-name="Deducciones
+
+4 % Salud.
+4 % Pensión." transform="translate(11 13)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Deducciones</tspan><tspan x="0" y="20"></tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="40">4 % Salud.</tspan><tspan x="0" y="60">4 % Pensión.</tspan></tspan></text>
+        </g>
+        <text id="Obligaciones" transform="translate(473.17 8561)" fill="#12263f" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-43.931" y="0">Obligaciones</tspan></text>
+        <text id="Empleador" transform="translate(642.659 8609)" fill="#12263f" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-36.2" y="0">Empleador</tspan></text>
+        <path id="Trazado_201693" data-name="Trazado 201693" d="M46.5,0H0" transform="translate(467.201 8579.5) rotate(90)" fill="none" stroke="#75b62f" stroke-width="3"/>
+        <g id="Grupo_150003" data-name="Grupo 150003" transform="translate(217.17 8749)">
+          <text id="Otras_deducciones_Libranzas._Créditos_con_empleador._Aportes_al_FSP_Fondo_de_Solidaridad_Pensional_._" data-name="Otras deducciones
+
+Libranzas.
+Créditos con empleador.
+Aportes al FSP (Fondo de Solidaridad Pensional).
+" transform="translate(12)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Otras deducciones</tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="35"></tspan><tspan x="0" y="55">Libranzas.</tspan><tspan x="0" y="75">Créditos con empleador.</tspan><tspan x="0" y="95">Aportes al FSP (Fondo de </tspan><tspan x="0" y="115">Solidaridad Pensional).</tspan></tspan></text>
+          <circle id="Elipse_12657" data-name="Elipse 12657" cx="3" cy="3" r="3" transform="translate(0 46)" fill="#75b62f"/>
+          <circle id="Elipse_12659" data-name="Elipse 12659" cx="3" cy="3" r="3" transform="translate(0 85)" fill="#75b62f"/>
+          <circle id="Elipse_12658" data-name="Elipse 12658" cx="3" cy="3" r="3" transform="translate(0 65)" fill="#75b62f"/>
+        </g>
+        <g id="Grupo_150001" data-name="Grupo 150001" transform="translate(518.208 8635)">
+          <text id="Devengado_Salario_básico._Horas_extras._Auxilio_de_transporte." data-name="Devengado
+
+Salario básico.
+Horas extras.
+Auxilio de transporte." transform="translate(10 13)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Devengado</tspan><tspan x="0" y="20"></tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="40">Salario básico.</tspan><tspan x="0" y="60">Horas extras.</tspan><tspan x="0" y="80">Auxilio de transporte.</tspan></tspan></text>
+          <circle id="Elipse_12660" data-name="Elipse 12660" cx="3" cy="3" r="3" transform="translate(0 46)" fill="#75b62f"/>
+          <circle id="Elipse_12662" data-name="Elipse 12662" cx="3" cy="3" r="3" transform="translate(0 85)" fill="#75b62f"/>
+          <circle id="Elipse_12661" data-name="Elipse 12661" cx="3" cy="3" r="3" transform="translate(0 65)" fill="#75b62f"/>
+        </g>
+        <g id="Grupo_150004" data-name="Grupo 150004" transform="translate(517.17 8749)">
+          <text id="Seguridad_social_12_Pensión._8.5_Salud._0.522_ARL_Administradoras_de_Riesgos_Laborales_._" data-name="Seguridad social
+
+12 % Pensión.
+8.5 % Salud.
+0.522 % ARL (Administradoras de Riesgos Laborales).
+" transform="translate(10)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Seguridad social</tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="35"></tspan><tspan x="0" y="55">12 % Pensión.</tspan><tspan x="0" y="75">8.5 % Salud.</tspan><tspan x="0" y="95">0.522 % ARL (Administradoras </tspan><tspan x="0" y="115">de Riesgos Laborales).</tspan></tspan></text>
+          <circle id="Elipse_12663" data-name="Elipse 12663" cx="3" cy="3" r="3" transform="translate(0 46)" fill="#75b62f"/>
+          <circle id="Elipse_12664" data-name="Elipse 12664" cx="3" cy="3" r="3" transform="translate(0 85)" fill="#75b62f"/>
+          <circle id="Elipse_12665" data-name="Elipse 12665" cx="3" cy="3" r="3" transform="translate(0 65)" fill="#75b62f"/>
+        </g>
+        <g id="Grupo_150005" data-name="Grupo 150005" transform="translate(518.208 8890)">
+          <text id="Parafiscales_2_SENA_Servicio_Nacional_de_Aprendizaje_._3_ICBF_Instituto_Colombiano_de_Bienestar_Familiar_._4_Caja_de_compensación_familiar._" data-name="Parafiscales
+
+2 % SENA (Servicio Nacional de Aprendizaje).
+3 % ICBF (Instituto Colombiano de Bienestar Familiar).
+4 % Caja de compensación familiar.
+" transform="translate(14)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Parafiscales</tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="35"></tspan><tspan x="0" y="55">2 % SENA (Servicio Nacional de </tspan><tspan x="0" y="75">Aprendizaje).</tspan><tspan x="0" y="95">3 % ICBF (Instituto Colombiano </tspan><tspan x="0" y="115">de Bienestar Familiar).</tspan><tspan x="0" y="135">4 % Caja de compensación </tspan></tspan></text>
+          <circle id="Elipse_12669" data-name="Elipse 12669" cx="3" cy="3" r="3" transform="translate(0 47)" fill="#75b62f"/>
+          <circle id="Elipse_12670" data-name="Elipse 12670" cx="3" cy="3" r="3" transform="translate(0 127)" fill="#75b62f"/>
+          <circle id="Elipse_12671" data-name="Elipse 12671" cx="3" cy="3" r="3" transform="translate(0 87)" fill="#75b62f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

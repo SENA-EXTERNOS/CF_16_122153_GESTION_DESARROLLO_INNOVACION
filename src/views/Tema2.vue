@@ -5,7 +5,443 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Titulo de primer nivel
+      h1 Bienestar y calidad de vida
+
+    .row
+        .col-lg-5
+              figure
+                img(src='@/assets/curso/temas/tema2/img1.png' ).imagen-deco
+        .col-lg-7.mt-4
+            p De igual manera, en materia de contabilidad, la nómina se refiere a los pagos quincenales o mensuales que el empleador realiza a los trabajadores, vinculados mediante contrato de trabajo. Estos pagos comprenden salario, comisiones, horas extras, recargos, prestaciones sociales, vacaciones y auxilios; es así como la nómina es el documento que recibe cada mes, un trabajador de la empresa, en el que consta el salario o compensación salarial recibido por el trabajo realizado durante ese mes. Según el artículo 144 del Código Sustantivo del Trabajo, es lo que todo trabajador tiene derecho a percibir para subvenir a sus necesidades normales y a las de su familia, en el orden material, moral y cultural.
+        
+              
+    p.mt-4 En la nómina, se tienen en cuenta varios apartados, como:
+
+
+    .row.justify-content-around.align-items-centerrd.mt-5
+      .col-lg-11
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--yellow")
+          .row(titulo="Devengos ")
+
+            .col-md-2
+              figure
+                img(src='@/assets/curso/temas/tema2/img1.svg', alt='Texto que describa la imagen').dimensionimg
+                
+
+            .col-md-8.mb-4.mb-md-0.text-small
+              
+              p Son aquellas sumas pagadas al trabajador como retribución de sus servicios. Entre estos conceptos, se encuentran aquellos pagados directamente como remuneración salarial y son la parte que suma dentro de una nómina. En el apartado de devengos, existen los salariales y los no salariales.
+              p.mt-3 Son clasificados como salariales:          
+              
+              ul.lista-ul
+                li 
+                  i.lista-ul__vineta 
+                  | Salario base: corresponde al pago mensual mínimo que recibirá un trabajador.
+                
+                li 
+                  i.lista-ul__vineta
+                  |  Complementos salariales: son percepciones económicas que se añaden al salario base, por una causa específica y determinada, derivada de la prestación del trabajo.
+
+                li 
+                  i.lista-ul__vineta
+                  |  Horas extraordinarias: las horas extraordinarias son las cantidades de tiempo adicionales que un trabajador realiza, además de su jornada de trabajo.
+
+                li 
+                  i.lista-ul__vineta
+                  |  Pagos extras: según cada convenio o acuerdo entre empleado y empresa.
+
+                li 
+                  i.lista-ul__vineta
+                  |   Mejoras voluntarias: el sueldo que se percibe como salario en especie o retribución.
+
+
+              p.mt-2 Por otra parte, los no salariales son los que se compensan, como:
+
+              ul.lista-ul
+                li 
+                  i.lista-ul__vineta
+                  |  Indemnizaciones. 
+                
+                li 
+                  i.lista-ul__vineta
+                  |  Prestaciones de seguridad social.
+
+
+                li 
+                  i.lista-ul__vineta
+                  |  Indemnizaciones por traslados.
+
+                li 
+                  i.lista-ul__vineta
+                  |  Suspensión o despido.
+
+              
+
+            .col-sm.mb-5.mb-sm-0
+            
+
+          .row(titulo="Deducciones")
+
+            .col-md-2
+              figure
+                img(src='@/assets/curso/temas/tema2/img2.svg', alt='Texto que describa la imagen').dimensionimg
+                
+
+            .col-md-8.mb-4.mb-md-0.text-small
+              p Son descuentos del monto total devengado por el trabajador, es decir, del monto total de los salarios percibidos durante un mes o una quincena, son conceptos o valores descontados de la nómina. Estas deducciones se encuentran previstas en la ley, y se llevan a cabo para efectos de realizar los aportes a seguridad social, sobre el porcentaje que deba ser asumido por el trabajador.
+              p.mt-3 Dentro de los valores que se deducen de la nómina tenemos:
+
+              ul.lista-ul
+                li 
+                  i.lista-ul__vineta
+                  |  Aporte a la salud.
+                
+                li 
+                  i.lista-ul__vineta
+                  |  Aporte a la pensión
+
+                li 
+                  i.lista-ul__vineta
+                  |  Fondo de solidaridad.
+                li 
+                  i.lista-ul__vineta
+                  |  Cuotas sindicales.
+
+                li 
+                  i.lista-ul__vineta
+                  |  Aportes a cooperativas.
+
+                li 
+                  i.lista-ul__vineta
+                  |  Embargos.
+
+                li 
+                  i.lista-ul__vineta
+                  |  Créditos.
+
+                li 
+                  i.lista-ul__vineta
+                  |  Deudas.
+
+                li 
+                  i.lista-ul__vineta
+                  |  Retención en la fuente.
+
+              p.mt-3 Es necesario dejar en claro que la empresa, la compañía u organización, no podrá retener ningún valor del salario de un empleado sin el consentimiento expreso del mismo, a menos que lo ordene un tribunal competente.
+      
+      p.mt-3 El documento en el que se relacionan estos conceptos, se conoce de manera común como nómina, y está compuesta por los siguientes elementos:
+
+    .row.justify-content-around.align-items-centerrd.mt-3
+      .col-lg-5
+        ImagenInfografica.color-acento-botones
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/temas/tema2/img3.svg', alt='Texto que describa la imagen')
+              
+
+          .tarjeta.color-acento-botones.yellowpt.p-3(x="20%" y="23%" numero="+")
+            .h5.mb-2 Datos de identificación de la empresa.
+            
+
+          .tarjeta.color-acento-botones.yellowpt.p-3(x="20%" y="33%" numero="+")
+            .h5.mb-2 Datos básicos del trabajador.
+
+          .tarjeta.color-acento-botones.yellowpt.p-3(x="20%" y="43%" numero="+")
+            .h5.mb-2 Periodo de liquidación.
+
+          .tarjeta.color-acento-botones.yellowpt.p-3(x="20%" y="63%" numero="+")
+            .h5.mb-2 Compensaciones salariales y no salariales, que componen el salario bruto.
+
+          .tarjeta.color-acento-botones.yellowpt.p-3(x="67%" y="63%" numero="+")
+            .h5.mb-2 Deducciones que se realizan al salario bruto.
+
+
+          .tarjeta.color-acento-botones.yellowpt.p-3(x="20%" y="81%" numero="+")
+            .h5.mb-2 Detalles de las bases de cotización de la nómina.
+
+
+          .tarjeta.color-acento-botones.yellowpt.p-3(x="67%" y="80%" numero="+")
+            .h5.mb-2 Total neto a percibir.
+
+          .tarjeta.color-acento-botones.yellowpt.p-3(x="20%" y="91%" numero="+")
+            .h5.mb-2 Lugar y emisión, fecha y empresa.
+
+      p.mt-3 Antes de continuar, es importante tener presente que existen varios tipos de salarios.
+
+      p.mt-1 Conozcamos cada uno de ellos:
+
+
+      .row
+        .col-lg-12
+          ImagenInfografica.color-acento-botones
+            template(v-slot:imagen)
+              figure
+                img(src='@/assets/curso/temas/tema2/img5.png', alt='Texto que describa la imagen')
+                
+
+            .tarjeta.color-acento-botones.morado.p-3(x="38%" y="20%" numero="+")
+              .h5.mb-2 Salario integral
+              p.mt-2 Está estipulado por el artículo 132 del CST. Está conformado por un valor salarial equivalente a 10 salarios mínimos, que constituye un 70 % del total de la remuneración.
+              
+            .tarjeta.color-acento-botones.morado.p-3(x="74%" y="20%" numero="+")
+              .h5.mb-2 Salario variable
+              p.mt-2 Cuando el trabajador recibe pagos sujetos a la ejecución de determinados hechos, comisiones o bonificaciones. 
+
+            .tarjeta.color-acento-botones.morado.p-3(x="21%" y="66%" numero="+")
+              .h5.mb-2 Salario mínimo
+              p.mt-2 Está estipulado en el artículo 145 del CST. Monto mínimo al que todo trabajador tiene derecho. Es decretado por el gobierno nacional anualmente; para el año 2022, en Colombia se decretó por $1.000.000.
+
+
+            .tarjeta.color-acento-botones.morado.p-3(x="56%" y="66%" numero="+")
+              .h5.mb-2 Salario en especie
+              p.mt-2 Toda retribución material diferente al dinero, que recibe el trabajador como parte de su remuneracion salarial y contraprestación directa del servicio. Está estipulada por el artículo 129 del CST.
+
+            .tarjeta.color-acento-botones.morado.p-3(x="92%" y="66%" numero="+")
+              .h5.mb-2 Salario a destajo
+              p.mt-2 Establecido en el artículo 132 del CST, es una modalidad de salario variable, donde se paga un valor determinado, por una labor específica. 
+      
+    .row.mt-5
+      .col-md-6.mb-4.mb-md-0
+        .lista-ol--cuadro__vineta
+        b  Trabajo extra y recargos 
+
+    .row.mt-3
+        .col-lg-5
+              figure
+                img(src='@/assets/curso/temas/tema2/img6.png' ).imagen-deco
+        .col-lg-7.mt-4
+            p Recuerde que la jornada ordinaria consiste en 8 horas diarias y 48 horas semanales y, al realizar un exceso de horas de trabajo fuera del horario estipulado o pactado mediante el contrato, se presentan las horas extras, aquellas que se desarrollan más allá de la jornada ordinaria; cabe aclarar que, en ningún caso, las horas extras de trabajo diurnas o nocturnas, podrán exceder a 2 diarias y 12 a la semana.
+
+              .cajon.color-acento-botones.p-3            
+                p Para poder laborar el tiempo suplementario, el empleador deberá solicitar autorización del Ministerio de Protección Social, y si lo obtiene deberá llevar un registro de trabajo suplementario y está obligado a entregar al trabajador, una relación de las horas extras laboradas.
+    
+    p.mt-2 La liquidación del trabajo extra o suplementario, se llevará a cabo de acuerdo con las fórmulas presentadas a continuación:
+
+
+
+    .row.justify-content-around.mt-4
+        .col-lg-3
+          img(src='@/assets/curso/temas/tema2/img7.png' )
+        .col-lg-3        
+          img(src='@/assets/curso/temas/tema2/img8.png' )
+        .col-lg-3
+          img(src='@/assets/curso/temas/tema2/img9.png' )
+        
+
+    .row.justify-content-around.mt-4
+        .col-lg-11
+          img(src='@/assets/curso/temas/tema2/img10.svg' )
+
+    .row.justify-content-around.mt-4
+      .col-lg-8
+        .cajon.color-acento-botones.p-3            
+              p Debemos tener en cuenta que los días tienen una duración de 24 horas, contados desde las 12:00 de la noche hasta las 12:00 de la noche del día siguiente. Por otra parte, el recargo dominical y festivo es para los empleados que, por cualquier razón, deben trabajar un festivo donde no hay cabida a horas extras, porque se aplica el sistema legal de 8 horas. A la hora de determinar la compensación obligatoria de vacaciones, hay que tener en cuenta que, si el salario de un trabajador es fijo, incluye el pago de los domingos y festivos.
+
+
+    .row.mt-5
+      .col-md-6.mb-4.mb-md-0
+        .lista-ol--cuadro__vineta
+        b  Prestaciones sociales 
+
+    p.mt-4 Las prestaciones sociales son los pagos adicionales, aparte del salario, que el trabajador recibe en determinadas épocas del año, y que, a su vez, le representan beneficios; estas prestaciones son una remuneración obligatoria por parte del empleador, para los trabajadores que se encuentren vinculados a la empresa, por medio de un contrato de trabajo.
+    p.mt-2 A continuación, se mostrarán detalladamente, cada una de estas prestaciones, con sus respectivas fórmulas de liquidación.
+
+    .row
+      .col-lg-8
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--coloramarillo")
+          .row(titulo="Auxilio de cesantías")
+            .col-md-11.mb-4.mb-md-0
+              p Son una prestación social a cargo de todo empleador, cuyo fin es un ahorro que tiene el trabajador para cuando esté desempleado, o para invertirlas en el pago sus estudios, el de su cónyuge, compañero permanente, o el de sus hijos, para compra, mejora o liberación de gravámenes de su vivienda.
+              b.mt-1 Fórmula para liquidar cesantías = valor del salario mensual x los días laborados en el año / 360.
+              p.mt-1 Las cesantías se causan a 31 de diciembre de cada año y se consignan en el fondo de cesantías que elija el trabajador, a más tardar el 14 de febrero del año siguiente. De no consignarse en la fecha establecida, el empleador deberá pagar una multa de un día de salario por cada día de retraso, a favor del trabajador.
+
+          .row(titulo="Intereses sobre las cesantías")
+            
+            .col-md-11.mb-4.mb-md-0
+              p Todos los empleadores deberán pagar a sus trabajadores los intereses sobre las cesantías, que equivalen al 12 % anual. Los intereses se causan y se pagan a más tardar el 31 de enero de cada año, con base en el saldo de cesantías que el trabajador tuviere acumuladas a su favor al 31 de diciembre del año inmediatamente anterior.
+              p.mt-1 Fórmula para liquidar intereses sobre las cesantías = valor de las cesantías x días trabajados en el año x 0.12 / 360.
+     
+          .row(titulo="Prima de servicios")
+            
+            .col-md-11.mb-4.mb-md-0
+              p Es una prestación social que debe pagar el empleador que tenga carácter de empresa, con la finalidad que sus trabajadores disfruten por las utilidades que arroja la empresa. Se pagará, por concepto de prima de servicios, 30 días de salario por cada año de prestación del servicio, los cuales se pagan de forma semestral por partes iguales, el quince de junio y el 20 de diciembre.
+              p.mt-1 Fórmula para liquidar la prima de servicios = valor del promedio del salario mensual x los días laborados en el semestre / 360.
+      .col-lg-4
+          figure
+            img(src='@/assets/curso/temas/tema2/img11.svg', alt='Texto que describa la imagen')
+            
+    .row.justify-content-center.mb-5.mt-5
+      .col-lg-8
+        .cajon.color-primario.verde.p-3            
+          p Teniendo clara la clasificación anterior, se puede decir que las vacaciones no son salario, ni prestación social, sino un descanso remunerado, que debe tomarse como base para liquidar aportes.
+
+    .row.mt-5
+      .col-md-6.mb-4.mb-md-0
+        .lista-ol--cuadro__vineta
+        b  Salario integral
+    
+    .row.mt-3
+      .col-lg-4
+            figure
+              img(src='@/assets/curso/temas/tema2/img12.png' )
+      .col-lg-8.mt-4
+          p Ampliemos un poco más la información sobre el salario integral.
+          p.mt-2 Se encuentra estipulado a través del artículo 132 del CST. Se conforma por un factor salarial equivalente a diez (10) smmlv (salario mínimo mensual vigente) que constituyen el 70 % del total de la remuneración, más uno prestacional de (3) smmlv que equivalen al 30 % de la misma. El factor salarial comprende el valor que debe utilizarse como base para la liquidación de aportes al sistema de seguridad social, parafiscales, vacaciones, licencias e incapacidades.
+
+    p.mt-4 El salario integral incluye los siguientes conceptos:
+
+    SlyderF.mt-5(columnas="col-lg-5 col-xl-2")
+      
+      .tarjeta-avatar
+        img(src='@/assets/curso/temas/tema2/slider1.svg' alt='AvatarTop')
+        .tarjeta.tarjeta--yellow1.p-5        
+          p.text-center.mt-5.text-small Salario.          
+
+      .tarjeta-avatar
+        img(src='@/assets/curso/temas/tema2/slider2.svg' alt='AvatarTop')
+        .tarjeta.tarjeta--yellow1.p-5
+          h4.text-center.mt-4
+          p.text-center.text-small Prima de servicios.
+
+      .tarjeta-avatar
+        img(src='@/assets/curso/temas/tema2/slider3.svg' alt='AvatarTop')
+        .tarjeta.tarjeta--yellow1.p-5
+          h4.text-center.mt-3
+          p.text-center.text-small Auxilio de cesantías.
+
+      .tarjeta-avatar
+        img(src='@/assets/curso/temas/tema2/slider4.svg' alt='AvatarTop')
+        .tarjeta.tarjeta--yellow1.p-5
+          h4.text-center.mt-4
+          p.text-center.text-small Horas extras.
+
+      .tarjeta-avatar
+        img(src='@/assets/curso/temas/tema2/slider5.svg' alt='AvatarTop')
+        .tarjeta.tarjeta--yellow1.p-5
+          h4.text-center.mt-4
+          p.text-center.text-small Recargos nocturnos.
+
+      .tarjeta-avatar
+        img(src='@/assets/curso/temas/tema2/slider6.svg' alt='AvatarTop')
+        .tarjeta.tarjeta--yellow1.p-5
+          h4.text-center.mt-2
+          p.text-center.text-small Trabajo dominical y festivo.
+
+    .row.mt-5.justify-content-center
+      .col-11
+        .bloque-texto-g.color-primario.tarjetaimgcar.p-3.p-sm-4.p-md-5
+          .bloque-texto-g__img.carimg(
+            :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img14.png')})`}"
+          )
+          .bloque-texto-g__texto2.p-4
+            .col-10.col-lg-12
+              p Sin embargo, el salario integral no incluye:
+              p <i class="fas fa-check" STYLE="Color: red"></i>   Vacaciones.
+              p <i class="fas fa-check" STYLE="Color: red"></i>   Aportes a seguridad social.
+              p <i class="fas fa-check" STYLE="Color: red"></i>   Aportes parafiscales.
+              p <i class="fas fa-check" STYLE="Color: red"></i>   Sanciones moratorias.
+    .row.mt-5
+      .col-md-6.mb-4.mb-md-0
+        .lista-ol--cuadro__vineta
+        b  Novedades 
+
+    .row
+        
+        .col-lg-8.mt-4
+            p El numeral 10 del artículo 2.1.1.3 del Decreto 780 de 2016, establece que se entiende por novedad toda modificación que afecta el estado o condición de afiliación del trabajador, la inscripción, cambio o retiro de una EPS y las actualizaciones que se efectúen de los datos de los afiliados. Estas novedades deben ser reportadas, de manera obligatoria una vez se presenten, a modo que el empleador no sea objeto de determinadas sanciones, según el tipo de novedad que debería reportarse. 
+        
+              .cajon.color-acento-botones.p-3            
+                p Existen dos tipos de novedades: las permanentes, son aquellas que se mantienen de manera constante durante la relación laboral; por ejemplo, traslado de EPS o de fondo de pensiones, y las transitorias que, como su nombre lo indica, se presentan por un período determinado; por ejemplo, una incapacidad o una licencia no remunerada. Para prestar estos servicios, los operadores deben estar autorizados por parte del Ministerio de Salud y Protección Social.
+        .col-lg-4.mt-5
+              figure
+                img(src='@/assets/curso/temas/tema2/img15.png' ).imagen-deco
+
+    p.mt-4 Algunas novedades que pueden presentarse son:
+
+
+    .row.justify-content-center.mb-5
+      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/tema2/tarjeta5.png", alt="alt")
+          .crd_hover_txt--body
+            h4.mb-3 Licencia por luto
+            p.mb-0 5 días hábiles cuando el fallecido es familiar dentro del grado de parentesco que exige la ley.
+      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/tema2/tajeta1.png", alt="alt")
+          .crd_hover_txt--body
+            h5.mb-3 Licencia o descanso durante el periodo de lactancia
+            p.mb-0 2 descansos de 30 minutos cada uno, durante la jornada laboral.
+
+
+      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/tema2/tarjeta2.png", alt="alt")
+          .crd_hover_txt--body
+            h5.mb-3 Licencia de maternidad
+            p.mb-0 12 semanas u 84 días después del parto, la cubre la EPS 10 % del IBC (Ingreso Base de Cotización).
+
+      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0.mt-5
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/tema2/tarjeta3.png", alt="alt")
+          .crd_hover_txt--body
+            h5.mb-3 Licencia de aborto o parto prematuro
+            p.mb-0 De dos a cuatro semanas, la paga la EPS al 100%.
+
+      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0.mt-5
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/tema2/tarjeta4.png", alt="alt")
+          .crd_hover_txt--body
+            h5.mb-3 Licencia de paternidad
+            p.mb-0 Ley María 755 de 2002, son 8 días hábiles, si ambos cotizan, o 4 días si solo cotiza el padre; 100 % la cubre la EPS.
+
+    .row.mt-5
+      .col-md-6.mb-4.mb-md-0
+        .lista-ol--cuadro__vineta
+        b  Liquidación de nómina
+
+    .row.mt-5
+      .col-lg-4
+            figure
+              img(src='@/assets/curso/temas/tema2/img16.png' ).imagen-deco
+      .col-lg-8
+          p Conocemos todos los términos, ahora vamos con la liquidación de nómina, la cual consiste en calcular el valor acumulado de la cantidad de días trabajados y la cantidad deducida del pago de un empleado, durante un período determinado, para llegar al valor total pagado. Se liquida mensual o quincenalmente, dependiendo de las condiciones de pago pactadas; las empresas deberán continuar liquidando sus respectivos salarios, para determinar los diversos conceptos que adeudan a los trabajadores y que deben descontar.
+            .cajon.color-acento-botones.p-3            
+              p En la liquidación de la nómina se deben tener en cuenta dos cosas que deberá pagar el empleador y que se le deducirá al empleado, como vemos que se presenta en la siguiente tabla.
+
+
+
+      .row.justify-content-center.mt-3
+      .col-lg-10.sm-8
+        .titulo-sexto.color-primario
+          b  Figura 1.
+          
+          i Obligaciones del empleador y del empleado
+
+      .row.justify-content-center.mt-3
+        .col-lg-7.sm-8
+
+          figure
+           img(src='@/assets/curso/temas/tema2/img18.svg' )
+
+      .row.justify-content-center.mt-5
+        .col-lg-8.sm-8
+
+          .cajon.color-acento-botones.p-3            
+            p El Fondo de Solidaridad Pensional, lo pagan los asalariados que ganen más de 4 salarios mínimos; equivale al 1 % del Ingreso Base de Cotización, sin subsidio de transporte.
+            p El formato estándar utilizado para la liquidación de nómina, se debe regir por la legislación vigente, que define la estructura mínima y el contenido que debe seguirse en todo momento.
+
+    
 
 </template>
 
