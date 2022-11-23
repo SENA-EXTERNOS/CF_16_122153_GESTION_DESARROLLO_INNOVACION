@@ -227,6 +227,8 @@
         .col-lg-7.mt-4
             p Gracias a la evolución tecnológica, tenemos acceso a múltiples herramientas que sirven para que la labor contable sea completa y veraz; esto facilita que las organizaciones cuenten con información oportuna e inmediata, sea cual sea el momento en que se requiera. 
             p.mt-2 En la actualidad, las empresas apoyan el registro de sus operaciones contables en sistemas contables que, en muchos casos, son actualizados en línea, siendo algo muy conveniente para que cualquier usuario de la información contable, pueda acceder a ella sin importar el lugar donde se encuentre.
+            p.mt-2 Aquí aparece el #[i software] de contabilidad, el cual es un programa o aplicación informática que trata los datos contables de una empresa, mediante métodos sistemáticos. En Colombia existen varios, pero el más reconocido es SIIGO. 
+        
         .col-lg-4
               figure
                 img(src='@/assets/curso/temas/tema3/img8.png' )

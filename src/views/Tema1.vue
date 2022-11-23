@@ -16,7 +16,7 @@
             p Así como en Colombia y muchos otros países, la legislación laboral se utiliza para regular las relaciones en el trabajo, tanto de empleados como empleadores, igualmente es un conjunto de normas que estipulan los derechos y garantías mínimas de los trabajadores, las cuales no pueden ser modificadas por un contrato de trabajo.
      
         
-              .cajon.color-primario.verde.p-3            
+              .cajon.color-acento-botones.p-3            
                 p En Colombia, la legislación laboral regula tipos de contratación tanto a empleados nacionales como extranjeros, conceptos mínimos de devengo, deducciones, así como también despidos e incapacidades, entre otras. La legislación laboral garantiza la igualdad, tanto a empresarios como a colaboradores. 
 
 
