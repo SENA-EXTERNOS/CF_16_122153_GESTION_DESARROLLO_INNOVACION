@@ -5,8 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Bienestar y calidad de vida
-
+      h1 Nómina 
     .row
         .col-lg-5
               figure
@@ -180,24 +179,24 @@
                 
 
             .tarjeta.color-acento-botones.morado.p-3(x="38%" y="20%" numero="+")
-              .h5.mb-2 Salario integral
+              .h5.mb-2 
               p.mt-2 Está estipulado por el artículo 132 del CST. Está conformado por un valor salarial equivalente a 10 salarios mínimos, que constituye un 70 % del total de la remuneración.
               
             .tarjeta.color-acento-botones.morado.p-3(x="74%" y="20%" numero="+")
-              .h5.mb-2 Salario variable
+              .h5.mb-2 
               p.mt-2 Cuando el trabajador recibe pagos sujetos a la ejecución de determinados hechos, comisiones o bonificaciones. 
 
             .tarjeta.color-acento-botones.morado.p-3(x="21%" y="66%" numero="+")
-              .h5.mb-2 Salario mínimo
+              .h5.mb-2 
               p.mt-2 Está estipulado en el artículo 145 del CST. Monto mínimo al que todo trabajador tiene derecho. Es decretado por el gobierno nacional anualmente; para el año 2022, en Colombia se decretó por $1.000.000.
 
 
             .tarjeta.color-acento-botones.morado.p-3(x="56%" y="66%" numero="+")
-              .h5.mb-2 Salario en especie
-              p.mt-2 Toda retribución material diferente al dinero, que recibe el trabajador como parte de su remuneracion salarial y contraprestación directa del servicio. Está estipulada por el artículo 129 del CST.
+              .h5.mb-2 
+              p.mt-2 Toda retribución material diferente al dinero, que recibe el trabajador como parte de su remuneración salarial y contraprestación directa del servicio. Está estipulada por el artículo 129 del CST.
 
             .tarjeta.color-acento-botones.morado.p-3(x="92%" y="66%" numero="+")
-              .h5.mb-2 Salario a destajo
+              .h5.mb-2 
               p.mt-2 Establecido en el artículo 132 del CST, es una modalidad de salario variable, donde se paga un valor determinado, por una labor específica. 
       
     .row.mt-5
@@ -290,42 +289,39 @@
 
     p.mt-4 El salario integral incluye los siguientes conceptos:
 
-    SlyderF.mt-5(columnas="col-lg-5 col-xl-2")
-      
+
+    SlyderF.mb-5.mt-5(columnas="col-lg-4 col-xl-3")
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/slider1.svg' alt='AvatarTop')
-        .tarjeta.tarjeta--yellow1.p-5        
-          p.text-center.mt-5.text-small Salario.          
+        .tarjeta.tarjeta--amarilla-1.p-4
+          p.text-center.text-small Salario.
 
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/slider2.svg' alt='AvatarTop')
-        .tarjeta.tarjeta--yellow1.p-5
-          h4.text-center.mt-4
+        .tarjeta.tarjeta--amarilla-1.p-4
           p.text-center.text-small Prima de servicios.
 
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/slider3.svg' alt='AvatarTop')
-        .tarjeta.tarjeta--yellow1.p-5
-          h4.text-center.mt-3
+        .tarjeta.tarjeta--amarilla-1.p-4
           p.text-center.text-small Auxilio de cesantías.
 
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/slider4.svg' alt='AvatarTop')
-        .tarjeta.tarjeta--yellow1.p-5
-          h4.text-center.mt-4
+        .tarjeta.tarjeta--amarilla-1.p-4
           p.text-center.text-small Horas extras.
-
+      
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/slider5.svg' alt='AvatarTop')
-        .tarjeta.tarjeta--yellow1.p-5
-          h4.text-center.mt-4
+        .tarjeta.tarjeta--amarilla-1.p-4
           p.text-center.text-small Recargos nocturnos.
-
+      
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/slider6.svg' alt='AvatarTop')
-        .tarjeta.tarjeta--yellow1.p-5
-          h4.text-center.mt-2
+        .tarjeta.tarjeta--amarilla-1.p-4
           p.text-center.text-small Trabajo dominical y festivo.
+
+
 
     .row.mt-5.justify-content-center
       .col-11
@@ -366,7 +362,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/tarjeta5.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Licencia por luto
+            h4.mb-3.text-center Licencia por luto
             p.mb-0 5 días hábiles cuando el fallecido es familiar dentro del grado de parentesco que exige la ley.
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -374,7 +370,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/tajeta1.png", alt="alt")
           .crd_hover_txt--body
-            h5.mb-3 Licencia o descanso durante el periodo de lactancia
+            h5.mb-0.text-center.textmargin Licencia o descanso durante el periodo de lactancia
             p.mb-0 2 descansos de 30 minutos cada uno, durante la jornada laboral.
 
 
@@ -384,7 +380,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/tarjeta2.png", alt="alt")
           .crd_hover_txt--body
-            h5.mb-3 Licencia de maternidad
+            h5.mb-3.text-center Licencia de maternidad
             p.mb-0 12 semanas u 84 días después del parto, la cubre la EPS 10 % del IBC (Ingreso Base de Cotización).
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0.mt-5
@@ -393,7 +389,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/tarjeta3.png", alt="alt")
           .crd_hover_txt--body
-            h5.mb-3 Licencia de aborto o parto prematuro
+            h5.mb-3.text-center Licencia de aborto o parto prematuro
             p.mb-0 De dos a cuatro semanas, la paga la EPS al 100%.
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0.mt-5
@@ -402,7 +398,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/tarjeta4.png", alt="alt")
           .crd_hover_txt--body
-            h5.mb-3 Licencia de paternidad
+            h5.mb-3.text-center Licencia de paternidad
             p.mb-0 Ley María 755 de 2002, son 8 días hábiles, si ambos cotizan, o 4 días si solo cotiza el padre; 100 % la cubre la EPS.
 
     .row.mt-5

@@ -78,7 +78,7 @@ export default {
         icono: 'far fa-file-alt',
         numero: '3',
         titulo:
-          'Hojas de cálculo para la generación de informes financieros y <em>software<em> contable',
+          'Hojas de cálculo para la generación de informes financieros y <em>software</em> contable',
         desarrolloContenidos: true,
       },
     ],
@@ -133,33 +133,25 @@ export default {
     },
     {
       tema:
-        'Hojas de cálculo para la generación de informes financieros y <em>software<em> contable',
+        'Hojas de cálculo para la generación de informes financieros y <em>software</em>  contable',
       referencia:
         'IFRS Foundation. (s.f.).<em> Norma Internacional de Contabilidad 8. Políticas Contables, Cambios en las Estimaciones Contables y Errores. <em> ',
       tipo: 'PDF',
       link:
         'https://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/compilacion-marcos-tecnicos-de-informacion-financi/1534369239-2962',
     },
+
     {
       tema:
-        'Hojas de cálculo para la generación de informes financieros y <em>software<em> contable',
+        'Hojas de cálculo para la generación de informes financieros y <em>software</em> contable ',
       referencia:
-        '<em>IFRS Foundation. (s.f.). Norma Internacional de Contabilidad 8. Políticas Contables, Cambios en las Estimaciones Contables y Errores. <em> ',
-      tipo: 'PDF',
-      link:
-        'https://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/compilacion-marcos-tecnicos-de-informacion-financi/1534369239-2962 ',
-    },
-    {
-      tema:
-        'Hojas de cálculo para la generación de informes financieros y software contable ',
-      referencia:
-        'Videos Siigo. (2020). Siigo Nube – Aprende todo lo que puedes hacer con tu <em>software<em> administrativo (video). YouTube.  ',
+        'Videos Siigo. (2020). Siigo Nube – Aprende todo lo que puedes hacer con tu <em>software</em> administrativo (video). YouTube.  ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Njn33SBa5SI',
     },
     {
       tema:
-        'Hojas de cálculo para la generación de informes financieros y software contable',
+        'Hojas de cálculo para la generación de informes financieros y <em>software</em> contable',
       referencia:
         'Siigo – Centro de Ayuda. (s.f.).<em> Siigo Nube Primeros Pasos.  <em> ',
       tipo: 'Página web',
@@ -204,7 +196,7 @@ export default {
         'es el pago que recibe de forma periódica, un trabajador de mano de su empleador, a cambio de cierta actividad productiva. El empleado recibe un salario a cambio de poner su trabajo a disposición del empleador, siendo estas las obligaciones principales de su relación contractual.',
     },
     {
-      termino: '<em>Software contable<em>',
+      termino: '<em>Software</em> contable',
       significado:
         'programa o aplicación informática que trata los datos contables de una empresa, mediante métodos sistemáticos.',
     },
@@ -223,7 +215,7 @@ export default {
     },
     {
       referencia:
-        'Rivera, D. M., Rivera Zarate, D. F. & Angulo Guiza, U. G. (2022).<em> Cartilla laboral Teoría y práctica 2022: Medidas laborales, seguridad social y nómina electrónica.<em> Ediciones de la U. ',
+        'Rivera, D. M., Rivera Zarate, D. F. & Angulo Guiza, U. G. (2022).<em> Cartilla laboral Teoría y práctica 2022: Medidas laborales, seguridad social y nómina electrónica.</em> Ediciones de la U. ',
       link: '',
     },
   ],

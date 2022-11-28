@@ -20,23 +20,23 @@
     p.mt-2 Los conceptos básicos a tener presentes son:
 
     .row
-        .col-lg-3.mt-5
+        .col-lg-4.mt-5
             figure
               img(src='@/assets/curso/temas/tema3/img2.png' )
-        .col-lg-9
+        .col-lg-8
             
             TabsA.color-acento-contenido.mb-5.mt-5
               .tarjeta.colorverde.p-4(titulo="Libro")
                 .row                  
                   .col-xl-10
-                    h4 Libro
+                    
                     p Compilación de hojas, se puede almacenar en el disco duro y su extensión es .xls/ods.
 
               .tarjeta.colorverde.p-4(titulo="Celda")
                 .row
                   
                   .col-xl-10
-                    h4 Celda
+                    
                     p Lugar para digitar datos, sean numéricos o alfabéticos. Es un espacio rectangular, formado al hacer la intersección entre fila y columna.
 
 
@@ -44,14 +44,14 @@
                 .row
                   
                   .col-xl-10
-                    h4 Fórmula
+                    
                     p Expresiones numéricas para realizar el cálculo de alguna operación. 
 
               .tarjeta.colorverde.p-4(titulo="Fórmula")
                 .row
                   
                   .col-xl-10
-                    h4 Función
+                    
                     p Fórmula definida para realizar cálculos, utilizando valores puntuales y en un orden establecido.  
 
     .row.mt-5
@@ -65,9 +65,7 @@
     .row.justify-content-center.mt-3
       .col-lg-8.sm-8
         .titulo-sexto.color-acento-contenido
-          b  Figura 1.
-          
-          i  Ejemplo libro diario en una hoja de cálculo
+          p #[b Figura 1. ]  Ejemplo libro diario en una hoja de cálculo
 
       .row.justify-content-center.mt-1
         .col-lg-8.sm-8
@@ -82,9 +80,8 @@
     .row.justify-content-center.mt-3
       .col-lg-8.sm-8
         .titulo-sexto.color-acento-contenido
-          b  Figura 2.
+          p #[b Figura 2. ]  Ejemplo libro mayor en hoja de cálculo
           
-          i   Ejemplo libro mayor en hoja de cálculo
 
 
       .row.justify-content-center.mt-1
@@ -105,9 +102,8 @@
     .row.justify-content-center.mt-3
       .col-lg-8.sm-8
         .titulo-sexto.color-acento-contenido
-          b  Figura 3.
-          
-          i  Ejemplo de kardex en una hoja de cálculo
+          p #[b Figura 3. ]  Ejemplo de kardex en una hoja de cálculo
+           
 
 
       .row.justify-content-center.mt-1
@@ -249,7 +245,9 @@
         figcaption   VIDEO
 
 
-      p.mt-4 Y para finalizar, respondamos dos interrogantes sobre el software contable:
+      p.mt-4 Y para finalizar, respondamos dos interrogantes sobre el 
+        i software 
+        | contable:
 
 
       .row.mt-3
@@ -258,7 +256,7 @@
             SlyderA(tipo="b")
               .row
                 .col-md-6.mb-4.mb-md-0
-                  b ¿Cómo se ingresa información al software?
+                  b ¿Cómo se ingresa información al #[i software] ?
                   p.mt-2 Cada #[i software]  maneja su propia plataforma o interfaz y, aunque puede semejarse una de otra, es necesario contar con una capacitación completa por parte del prestador del servicio, a los colaboradores que harán uso del mismo. 
                   p.mt-2 Para que el ingreso de la información se registre de manera adecuada, se debe tener presente:
                   ul.lista-ul.mt-4

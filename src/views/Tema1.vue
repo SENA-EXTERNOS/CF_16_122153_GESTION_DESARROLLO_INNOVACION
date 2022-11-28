@@ -113,8 +113,8 @@
                   .col-xl-11
                     h4 Según su duración 
                     p Se puede llevar cabo por tiempo fijo, o determinado por labor de obra, por tiempo indefinido, para ejecutar un trabajo ocasional, accidental o transitorio. Por tiempo fijo o determinado, debe celebrarse por escrito y su duración no puede ser superior a tres años y admite, al menos, dos modalidades: el contrato a término fijo inferior a un año, que no tiene término mínimo de duración, y el contrato a término fijo de duración entre uno y tres años; cabe aclarar que puede ser renovado indefinidamente.
-
-        p.mt-4 A continuación, se relacionan algunos de los contratos que existen:
+        p.mt-4 Y para la terminación de cualquier contrato, la ley exige el preaviso, es decir, que la parte interesada avise a la otra, su determinación de no prorrogarlo, con una antelación no inferior a treinta días calendario, a la fecha de vencimiento del término estipulado.
+        p.mt-2 A continuación, se relacionan algunos de los contratos que existen:
 
     .row.justify-content-center.align-items-center
       .col-sm-8.col-lg-4.mb-4.mb-lg-0
