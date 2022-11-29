@@ -77,9 +77,9 @@
               .col-md-2
                 figure
                   img(src='@/assets/curso/temas/tema1/img2.svg', alt='Texto que describa la imagen')
-                  
-              .col-md-7.mb-4.mb-md-0
-                h4.text-center.align-time-line Subordinación o dependencia
+              .col-md-1   
+              .col-md-9.mb-4.mb-md-0
+                h4.align-time-line Subordinación o dependencia
                 p.align-time-line Permite al empleador exigirle al trabajador, el cumplimiento de órdenes y obligaciones contractuales.
 
             .row(titulo="")
