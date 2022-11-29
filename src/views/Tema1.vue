@@ -307,34 +307,31 @@
 
 
 
-    SlyderF.mt-5(columnas="col-lg-5 col-xl-3")
+    SlyderF.mt-5(columnas="col-lg-4 col-xl-3")
       
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema1/salider1.png' alt='AvatarTop')
         .tarjeta.tarjeta--yellow1.p-5         
-          p.text-center.mt-5 Libertad de trabajo.
+          p.text-center Libertad de trabajo.
 
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema1/slider2.png' alt='AvatarTop')
-        .tarjeta.tarjeta--yellow1.p-5
-          h4.text-center.mt-4
+        .tarjeta.tarjeta--yellow1.p-5     
           p.text-center Protección al trabajo.
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema1/slider3.png' alt='AvatarTop')
         .tarjeta.tarjeta--yellow1.p-5
-          h4.text-center.mt-3
           p.text-center Igualdad de los trabajadores.
 
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema1/img25.png' alt='AvatarTop')
         .tarjeta.tarjeta--yellow1.p-5
-          h4.text-center.mt-5
           p.text-center Derecho al trabajo.
 
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema1/img26.png' alt='AvatarTop')
-        .tarjeta.tarjeta--yellow1.p-5
-          h4.text-center.mt-3
+        .tarjeta.tarjeta--yellow1.p-4
+     
           p.text-center Derechos de asociación y huelga.
 
 
@@ -350,16 +347,14 @@
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/tarjeta1.svg' alt='AvatarTop')
           
-          .tarjeta.color-acento-botones.verde
-            .p-4
-              
+          .tarjeta.color-acento-botones.verde                 
               p.text-center Ejercer la potestad y facultad en la organización, dirección y control.
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/tarjeta2.svg' alt='AvatarTop')
          
           .tarjeta.color-acento-botones.amarillo
-            .p-4              
+            .p-1              
               p.text-center Poder establecer un orden reglamentario y disciplinario.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
@@ -367,7 +362,7 @@
           img(src='@/assets/curso/temas/tema1/tarjeta3.svg' alt='AvatarTop')
          
           .tarjeta.color-acento-botones.verde
-            .p-4            
+            .p-2      
               p.text-center  Obtener prestaciones del trabajo.
 
 
@@ -376,7 +371,7 @@
           img(src='@/assets/curso/temas/tema1/tarjeta4.svg' alt='AvatarTop')
          
           .tarjeta.color-acento-botones.amarillo
-            .p-4            
+            .p-2          
               p.text-center  Sacar beneficio de la productividad del trabajo.
 
     p.mt-5 En una relación laboral siempre pueden existir desacuerdos, lo que ocasiona, de alguna forma, que el contrato de trabajo pueda ser terminado, sea por pacto expreso entre las partes, por una disposición legal, por una justa causa por cualquiera de las partes o, unilateralmente, sin que exista justa causa. La terminación del contrato de trabajo incluye el pago de todas las cantidades adeudadas al empleado, en el momento de la rescisión del contrato.
