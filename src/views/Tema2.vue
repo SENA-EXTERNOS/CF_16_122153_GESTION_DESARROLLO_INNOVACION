@@ -420,9 +420,9 @@
       .row.justify-content-center.mt-3
       .col-lg-10.sm-8
         .titulo-sexto.color-primario
-          b  Figura 1.
+          p #[b Figura 1.] Obligaciones del empleador y del empleado
           
-          i Obligaciones del empleador y del empleado
+          
 
       .row.justify-content-center.mt-3
         .col-lg-7.sm-8

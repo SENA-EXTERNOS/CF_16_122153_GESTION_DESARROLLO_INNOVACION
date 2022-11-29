@@ -79,8 +79,8 @@
                   img(src='@/assets/curso/temas/tema1/img2.svg', alt='Texto que describa la imagen')
                   
               .col-md-7.mb-4.mb-md-0
-                h4.text-center Subordinación o dependencia
-                p.text-righ Permite al empleador exigirle al trabajador, el cumplimiento de órdenes y obligaciones contractuales.
+                h4.text-center.align-time-line Subordinación o dependencia
+                p.align-time-line Permite al empleador exigirle al trabajador, el cumplimiento de órdenes y obligaciones contractuales.
 
             .row(titulo="")
               .col-md-7.mb-4.mb-md-0
@@ -89,7 +89,7 @@
               .col-md-2
                 figure
                   img(src='@/assets/curso/temas/tema1/img3.svg', alt='Texto que describa la imagen')
-                  
+      .row           
         p.mt-3 Dichos contratos de trabajo se pueden clasificar de dos formas.
         p-mt-3 A continuación, se presenta cada una de estas:
 
