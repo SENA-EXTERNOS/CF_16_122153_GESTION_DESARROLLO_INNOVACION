@@ -17,7 +17,7 @@
      
         
               .cajon.color-acento-botones.p-3            
-                p En Colombia, la legislación laboral regula tipos de contratación tanto a empleados nacionales como extranjeros, conceptos mínimos de devengo, deducciones, así como también despidos e incapacidades, entre otras. La legislación laboral garantiza la igualdad, tanto a empresarios como a colaboradores. 
+                p.mb-0 En el país, la legislación laboral regula los tipos de contratación, tanto para empleados nacionales como para extranjeros, conceptos mínimos de devengo, deducciones, junto con despidos e incapacidades, entre otros. Además, garantiza la igualdad, tanto a empresarios, como a colaboradores. 
 
 
     .row.justify-content-center.align-items-center.mt-3
@@ -42,7 +42,7 @@
                       p Para revisar el Código Sustantivo del Trabajo, actualizado, lo invitamos a visitar la página de la #[b Secretaría del Senado de la República. ]
                       
                     .col-sm-auto
-                      a.boton.color-acento-botones.texto-negro(href="http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html" target="_blank")
+                      a.boton.color-acento-botones.text-white(href="http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html" target="_blank")
                         span.text-white Descargar
                         i.fas.fa-file-download
 
@@ -53,7 +53,7 @@
     .titulo-segundo.color-acento-contenido.mb-5
       h2 1.1  Contrato de trabajo
 
-    p Siempre que se hable de un empleo formal, estamos haciendo referencia a la actividad económica en la que una persona lleva a cabo una tarea específica, y hablamos de contrato de trabajo, el acuerdo mediante el cual una persona natural se obliga a prestar un servicio personal a otra persona, natural o jurídica, bajo la continuada dependencia o subordinación de la segunda y mediante remuneración. (Artículo 22, CST)
+    p Siempre que se hable de un empleo formal, hacemos referencia a la actividad económica en la que una persona lleva a cabo una tarea específica, y hablamos de contrato de trabajo, al referirnos al acuerdo mediante el cual una persona natural se obliga a prestar un servicio personal a otra persona, natural o jurídica, bajo la continuada dependencia o subordinación de la segunda y mediante remuneración. (Artículo 22, CST)
 
     p.mt-3 La ley, desde el Código Sustantivo del Trabajo, establece tres elementos indispensables, para que exista un contrato de trabajo:
 
@@ -91,7 +91,7 @@
                   img(src='@/assets/curso/temas/tema1/img3.svg', alt='Texto que describa la imagen')
       .row           
         p.mt-3 Dichos contratos de trabajo se pueden clasificar de dos formas.
-        p-mt-3 A continuación, se presenta cada una de estas:
+        p-mt-3 A continuación, se describe cada una de estas formas:
 
 
       .row
@@ -105,14 +105,16 @@
                 .row                  
                   .col-xl-11
                     h4 Según su forma
-                    p Puede ser verbal o escrito; el verbal tiene lugar cuando, por el simple acuerdo expresado oralmente, las partes convienen en la índole del trabajo y el sitio en donde se debe realizar, así como también la cuantía y la forma de remuneración; el escrito consta de un documento firmado por las partes y contiene algunos ítems importantes como: la duración de dicho contrato, la identificación y domicilio de las partes, lugar y fecha de celebración, cuantía de la remuneración, forma y periodos de pago, y terminación del contrato.
+                    p Puede ser verbal o escrito; el verbal tiene lugar cuando, por el simple acuerdo expresado oralmente, las partes convienen en la índole del trabajo y el sitio en donde se debe realizar, así como también la cuantía y la forma de remuneración; el escrito consta de un documento firmado por las partes y contiene algunos ítems importantes como: la duración de dicho contrato, la identificación y domicilio de los interesados, lugar y fecha de celebración, cuantía de la remuneración, forma y periodos de pago, y terminación del contrato.
               
               .tarjeta.colorverde.p-4(titulo="Según su duración")
                 .row
                   
                   .col-xl-11
                     h4 Según su duración 
-                    p Se puede llevar cabo por tiempo fijo, o determinado por labor de obra, por tiempo indefinido, para ejecutar un trabajo ocasional, accidental o transitorio. Por tiempo fijo o determinado, debe celebrarse por escrito y su duración no puede ser superior a tres años y admite, al menos, dos modalidades: el contrato a término fijo inferior a un año, que no tiene término mínimo de duración, y el contrato a término fijo de duración entre uno y tres años; cabe aclarar que puede ser renovado indefinidamente.
+                    p Se puede llevar cabo por tiempo fijo, incluido lo determinado por labor de obra, o por tiempo indefinido, para ejecutar un trabajo ocasional, accidental o transitorio. Por tiempo fijo o determinado, debe celebrarse por escrito y su duración no puede ser superior a tres años y admite, al menos, dos modalidades: el contrato a término fijo inferior a un año, que no tiene término mínimo de duración, y el contrato a término fijo de duración entre uno y tres años; cabe aclarar que puede ser renovado indefinidamente.
+        
+        
         p.mt-4 Y para la terminación de cualquier contrato, la ley exige el preaviso, es decir, que la parte interesada avise a la otra, su determinación de no prorrogarlo, con una antelación no inferior a treinta días calendario, a la fecha de vencimiento del término estipulado.
         p.mt-2 A continuación, se relacionan algunos de los contratos que existen:
 
@@ -150,77 +152,66 @@
 
     separador
     
-    #t_1_1
+    #t_1_2
     
     .titulo-segundo.color-acento-contenido.mb-5
       h2 1.2  Deberes y derechos del empleado y el empleador
 
 
-    p.mt-2 Se resalta que todo contrato celebrado por las partes que lo suscriben, adquiere unos derechos y obligaciones, y el contrato laboral no está exento de estas formalidades, las cuales se establecen en los artículos 57 y 58 del CST. 
+    p.mt-2 Se resalta que todo contrato celebrado por las partes que lo suscriben, adquiere unos derechos y obligaciones, y el contrato laboral no está exento de estas formalidades, las cuales se establecen en los artículos 57 y 58 del Código Sustantivo del Trabajo -CST. 
 
     p.mt-2 Conozcamos cuáles son estas formalidades (artículo 58, Código Sustantivo del Trabajo):
 
 
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+    SlyderF.mb-5.tema1-2(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-7
             img(src='@/assets/curso/temas/tema1/img8.png' alt='AvatarTop')
-          p.text-center.mt-3.text-small Realizar personalmente la labor, en los términos estipulados; observar los preceptos del reglamento, acatar y cumplir las órdenes e instrucciones que, de modo particular, la impartan el empleador o sus representantes.
-
-
+          p.text-center.mt-3 Realizar personalmente la labor, en los términos estipulados; observar los preceptos del reglamento, acatar y cumplir las órdenes e instrucciones que, de modo particular, la impartan el empleador o sus representantes.
 
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-7
             img(src='@/assets/curso/temas/tema1/img9.png' alt='AvatarTop')
-          p.text-center.mt-3.text-small No comunicar a terceros, salvo la autorización expresa, las informaciones que tenga sobre su trabajo, especialmente sobre las cosas que sean de naturaleza reservada o cuya divulgación pueda ocasionar perjuicios al empleador.
-
-
-
+          p.text-center.mt-3 No comunicar a terceros, salvo la autorización expresa, las informaciones que tenga sobre su trabajo, especialmente sobre las cosas que sean de naturaleza reservada o cuya divulgación pueda ocasionar perjuicios al empleador.
 
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center
-          .col-8
+          .col-7
             img(src='@/assets/curso/temas/tema1/img10.png' alt='AvatarTop')
-          p.text-center.mt-3.text-small Conservar y restituir un buen estado, salvo el deterioro natural, los instrumentos y útiles que le hayan sido facilitados y las materias primas sobrantes.
-
-
+          p.text-center.mt-3 Conservar y restituir en buen estado, salvo el deterioro natural, los instrumentos y útiles que le hayan sido facilitados y las materias primas sobrantes.
 
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
-          .col-9
+          .col-7
             img(src='@/assets/curso/temas/tema1/img11.png' alt='AvatarTop')
-          p.text-center.mt-3.text-small Guardar rigurosamente la moral, en las relaciones con sus superiores y compañeros.
-
+          p.text-center.mt-3 Guardar rigurosamente la moral, en las relaciones con sus superiores y compañeros.
 
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-7
             img(src='@/assets/curso/temas/tema1/img12.png' alt='AvatarTop')
-          p.text-center.mt-3.text-small Comunicar oportunamente, al empleador, las observaciones que estime conducentes para evitarle daños y perjuicios.
-
-
+          p.text-center.mt-3 Comunicar oportunamente, al empleador, las observaciones que estime conducentes para evitarle daños y perjuicios.
 
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-7
             img(src='@/assets/curso/temas/tema1/img13.png' alt='AvatarTop')
-          p.text-center.mt-3.text-small Prestar la colaboración posible en casos de siniestro o de riesgo inminente, que afecten o amenacen a las personas o cosas de la empresa o establecimiento.
+          p.text-center.mt-3 Prestar la colaboración posible en casos de siniestro o de riesgo inminente, que afecten o amenacen a las personas o cosas de la empresa o establecimiento.
 
-
-      .tarjeta.color-acento-contenido.p-5
+      .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-7
             img(src='@/assets/curso/temas/tema1/img14.png' alt='AvatarTop')
-          p.text-center.mt-3.text-small Observar con suma diligencia y cuidado, las instrucciones y órdenes preventivas de accidentes o de enfermedades profesionales.
-
+          p.text-center.mt-3 Observar con suma diligencia y cuidado, las instrucciones y órdenes preventivas de accidentes o de enfermedades profesionales.
 
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center
-          .col-8
+          .col-7
             img(src='@/assets/curso/temas/tema1/img15.png' alt='AvatarTop')
-          p.text-center.mt-3.text-small La trabajadora, en estado de embarazo, debe empezar a disfrutar la licencia remunerada consagrada en el numeral 1 del artículo 236, al menos una semana antes de la fecha probable del parto.
+          p.text-center.mt-3 La trabajadora, en estado de embarazo, debe empezar a disfrutar la licencia remunerada consagrada en el numeral 1 del artículo 236, al menos una semana antes de la fecha probable del parto.
+
 
     p Un contrato de trabajo está conformado por dos partes y, de igual manera, gozan de unos derechos y unas obligaciones que deberán ser asumidas entre los mismos.
 
@@ -237,7 +228,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img16.png', alt='Texto que describa la imagen')             
           .col-md-6.mb-4.mb-md-0
-            p Poner a disposición de los trabajadores, salvo estipulación en contrario, los instrumentos adecuados y las materias primas necesarias para la realización de las labores. 
+            p Poner a disposición de los trabajadores, salvo estipulación contraria, los instrumentos adecuados y las materias primas necesarias para la realización de las labores. 
 
 
         .row(titulo=" 2")
@@ -334,45 +325,70 @@
      
           p.text-center Derechos de asociación y huelga.
 
-
     .row.justify-content-center.mt-5
       .col-lg-10
-        figure
-          img(src='@/assets/curso/temas/tema1/img27.svg' alt='AvatarTop')
+        .bloque-texto-a.color-primario.p-4.p-md-5.mb-5.bg-gray
+          .row.m-0.align-items-center.justify-content-between
+            .col-lg-4.mb-4.mb-lg-0
+              img(src='@/assets/curso/temas/tema1/img-27.svg' alt='AvatarTop')
+            .col-lg-8
+              .bloque-texto-a__texto.p-4
+                p También se tienen otros derechos, como los siguientes:
+                  br
+                  br
+                  ul.lista-ul--color.color-naranja
+                    li.mb-1 
+                      i.fas.fa-check
+                      | Un trabajo digno.
+                    li.mb-1  
+                      i.fas.fa-check
+                      | Vacaciones.
+                    li.mb-1  
+                      i.fas.fa-check
+                      | Permisos por enfermedad o incapacidad médica.
+                    li.mb-1  
+                      i.fas.fa-check
+                      | Prestaciones sociales.
+                    li.mb-1  
+                      i.fas.fa-check
+                      | Pensión.
+                    li.mb-1  
+                      i.fas.fa-check
+                      | Ajustes de sueldo.   
+                    li.mb-1  
+                      i.fas.fa-check
+                      | Prestaciones sociales.          
 
     p.mt-5 Asimismo, existen los derechos indiscutibles de propiedad de un empleador, los cuales son:
 
     .row.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
+        .tarjeta-avatar.tema-1
           img(src='@/assets/curso/temas/tema1/tarjeta1.svg' alt='AvatarTop')
-          
           .tarjeta.color-acento-botones.verde                 
               p.text-center Ejercer la potestad y facultad en la organización, dirección y control.
+
       .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
+        .tarjeta-avatar.tema-1
           img(src='@/assets/curso/temas/tema1/tarjeta2.svg' alt='AvatarTop')
-         
           .tarjeta.color-acento-botones.amarillo
             .p-1              
               p.text-center Poder establecer un orden reglamentario y disciplinario.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
+        .tarjeta-avatar.tema-1
           img(src='@/assets/curso/temas/tema1/tarjeta3.svg' alt='AvatarTop')
-         
           .tarjeta.color-acento-botones.verde
             .p-2      
-              p.text-center  Obtener prestaciones del trabajo.
-
+              p.text-center Obtener beneficio de la productividad del trabajo.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
+        .tarjeta-avatar.tema-1
           img(src='@/assets/curso/temas/tema1/tarjeta4.svg' alt='AvatarTop')
-         
           .tarjeta.color-acento-botones.amarillo
             .p-2          
               p.text-center  Sacar beneficio de la productividad del trabajo.
+
 
     p.mt-5 En una relación laboral siempre pueden existir desacuerdos, lo que ocasiona, de alguna forma, que el contrato de trabajo pueda ser terminado, sea por pacto expreso entre las partes, por una disposición legal, por una justa causa por cualquiera de las partes o, unilateralmente, sin que exista justa causa. La terminación del contrato de trabajo incluye el pago de todas las cantidades adeudadas al empleado, en el momento de la rescisión del contrato.
 

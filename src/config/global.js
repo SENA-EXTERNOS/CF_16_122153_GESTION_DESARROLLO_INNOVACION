@@ -126,8 +126,8 @@ export default {
     {
       tema: 'Nómina',
       referencia:
-        'Ley 100 de 1993. Por la cual se crea el sistema de seguridad social integral y se dictan otras disposiciones. Diciembre 23 de 1993. DO No. 41.148 ',
-      tipo: 'Ley',
+        'Congreso de la República de Colombia. Ley 100 de 1993. Por la cual se crea el sistema de seguridad social integral y se dictan otras disposiciones. Diciembre 23 de 1993. DO No. 41.148 ',
+      tipo: 'Documento legal',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_0100_1993.html',
     },
@@ -135,7 +135,7 @@ export default {
       tema:
         'Hojas de cálculo para la generación de informes financieros y <em>software</em>  contable',
       referencia:
-        'IFRS Foundation. (s.f.).<em> Norma Internacional de Contabilidad 8. Políticas Contables, Cambios en las Estimaciones Contables y Errores. <em> ',
+        'IFRS Foundation. (s.f.). <em>Norma Internacional de Contabilidad 8. Políticas Contables, Cambios en las Estimaciones Contables y Errores.</em> ',
       tipo: 'PDF',
       link:
         'https://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/compilacion-marcos-tecnicos-de-informacion-financi/1534369239-2962',
@@ -145,7 +145,7 @@ export default {
       tema:
         'Hojas de cálculo para la generación de informes financieros y <em>software</em> contable ',
       referencia:
-        'Videos Siigo. (2020). Siigo Nube – Aprende todo lo que puedes hacer con tu <em>software</em> administrativo (video). YouTube.  ',
+        'Videos Siigo. (2020). <em>Siigo Nube – Aprende todo lo que puedes hacer con tu software administrativo</em> (video). YouTube.  ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Njn33SBa5SI',
     },
@@ -153,10 +153,10 @@ export default {
       tema:
         'Hojas de cálculo para la generación de informes financieros y <em>software</em> contable',
       referencia:
-        'Siigo – Centro de Ayuda. (s.f.).<em> Siigo Nube Primeros Pasos.  <em> ',
+        'Siigo – Centro de Ayuda. (s.f.). <em>Siigo Nube Primeros Pasos.</em> ',
       tipo: 'Página web',
       link:
-        'https://siigonube.portaldeclientes.siigo.com/pp/siigo-nube-primeros-pasos/ ',
+        'https://siigonube.portaldeclientes.siigo.com/pp/siigo-nube-primeros-pasos/',
     },
   ],
   glosario: [

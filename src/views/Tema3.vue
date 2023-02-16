@@ -47,7 +47,7 @@
                     
                     p Expresiones numéricas para realizar el cálculo de alguna operación. 
 
-              .tarjeta.colorverde.p-4(titulo="Fórmula")
+              .tarjeta.colorverde.p-4(titulo="Función")
                 .row
                   
                   .col-xl-10
@@ -56,20 +56,23 @@
 
     .row.mt-5
       .col-md-6.mb-4.mb-md-0
-        .lista-ol--cuadro__vineta
-        b  Aplicación de fórmulas en un  libro mayor y un diario 
+        .cuadrado
+          h3 
+            i.fas.fa-square   
+            |  Aplicación de fórmulas en un  libro mayor y un diario 
 
     p.mt-3 #[b Libro diario:] teniendo en cuenta que el libro diario es necesario para el registro cotidiano de las operaciones mercantiles de una organización, puede ser diligenciado en hojas de cálculo, donde las principales fórmulas son fechas, y suma de los valores. Los asientos deben relacionarse en orden cronológico y el número de orden, consecutivo. Se diseñan para que, de manera automática, alimente los libros mayores.
-    p La siguiente imagen presenta un ejemplo sobre cómo se visualiza el libro diario en hojas de cálculo.
+    p.mb-4 La siguiente imagen presenta un ejemplo sobre cómo se visualiza el libro diario en hojas de cálculo.
 
     .row.justify-content-center.mt-3
-      .col-lg-8.sm-8
+      .col-lg-9.sm-8
         .titulo-sexto.color-acento-contenido
-          p #[b Figura 1. ]  Ejemplo libro diario en una hoja de cálculo
-
+            p.mb-0
+              b Figura 1 
+            p.mb-0
+              em Ejemplo libro diario en una hoja de cálculo
       .row.justify-content-center.mt-1
-        .col-lg-8.sm-8
-
+        .col-lg-9.sm-8
           figure
            img(src='@/assets/curso/temas/tema3/img3.svg' )
 
@@ -78,45 +81,49 @@
     p.mt2- En una hoja de cálculo se diseñaría de esta forma:
 
     .row.justify-content-center.mt-3
-      .col-lg-8.sm-8
+      .col-lg-9.sm-8
         .titulo-sexto.color-acento-contenido
-          p #[b Figura 2. ]  Ejemplo libro mayor en hoja de cálculo
+            p.mb-0
+              b Figura 2 
+            p.mb-0
+              em Ejemplo libro mayor en hoja de cálculo
           
-
-
-      .row.justify-content-center.mt-1
-        .col-lg-8.sm-8
-
+      .row.justify-content-center.mt-1.mb-4
+        .col-lg-9.sm-8
           figure
            img(src='@/assets/curso/temas/tema3/img4.svg' )
 
     .row.mt-5
       .col-md-6.mb-4.mb-md-0
-        .lista-ol--cuadro__vineta
-        b  Tarjetas kardex o de inventario
+        .cuadrado
+          h3 
+            i.fas.fa-square   
+            |  Tarjetas kardex o de inventario 
 
-    p.mt-3 Las hojas de cálculo hacen parte de un libro auxiliar, en el que se diligencia la información de los productos existentes, referenciando características, unidades, proveedores, y detalles que permitan conocer su ubicación y la cantidad de existencias totales. 
+    p.mt-2 Las hojas de cálculo hacen parte de un libro auxiliar, en el que se diligencia la información de los productos existentes, referenciando características, unidades, proveedores, y detalles que permitan conocer su ubicación y la cantidad de existencias totales. 
     p.mt-2 En una hoja de cálculo, se podría construir de la siguiente manera:
 
     
     .row.justify-content-center.mt-3
-      .col-lg-8.sm-8
+      .col-lg-9.sm-8
         .titulo-sexto.color-acento-contenido
-          p #[b Figura 3. ]  Ejemplo de kardex en una hoja de cálculo
-           
-
+            p.mb-0
+              b Figura 3 
+            p.mb-0
+              em Ejemplo de kardex en una hoja de cálculo
 
       .row.justify-content-center.mt-1
-        .col-lg-8.sm-8
-
+        .col-lg-9.sm-8
           figure
            img(src='@/assets/curso/temas/tema3/img5.svg' )
 
 
     .row.mt-5
       .col-md-6.mb-4.mb-md-0
-        .lista-ol--cuadro__vineta
-        b  Comprobantes de cierres y ajustes 
+        .cuadrado
+          h3 
+            i.fas.fa-square   
+            |  Comprobantes de cierres y ajustes    
 
     .row
         .col-lg-4.mt-5
