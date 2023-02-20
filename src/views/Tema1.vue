@@ -291,8 +291,8 @@
 
     .row.justify-content-center.mb-5.mt-5
       .col-lg-8
-        .cajon.color-primario.verde.p-3            
-          p Uno de los derechos básicos reconocidos por el Estado, es la igualdad humana. De acuerdo con el artículo 10 del Código Sustantivo del Trabajo, se establece que “Todos los trabajadores y trabajadoras, son iguales ante la ley y tienen la misma protección y garantías”.
+        .cajon.color-primario.verde.p-4           
+          p.mb-0 #[i Uno de los derechos básicos reconocidos por el Estado, es la igualdad humana. De acuerdo con el artículo 10 del Código Sustantivo del Trabajo, se establece que “Todos los trabajadores y trabajadoras, son iguales ante la ley y tienen la misma protección y garantías”.]
 
     p Por lo tanto, son conocidos como derechos del trabajador:
 
@@ -380,14 +380,14 @@
           img(src='@/assets/curso/temas/tema1/tarjeta3.svg' alt='AvatarTop')
           .tarjeta.color-acento-botones.verde
             .p-2      
-              p.text-center Obtener beneficio de la productividad del trabajo.
+              p.text-center Obtener prestaciones del trabajo.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar.tema-1
           img(src='@/assets/curso/temas/tema1/tarjeta4.svg' alt='AvatarTop')
           .tarjeta.color-acento-botones.amarillo
             .p-2          
-              p.text-center  Sacar beneficio de la productividad del trabajo.
+              p.text-center Obtener beneficio de la productividad del trabajo.
 
 
     p.mt-5 En una relación laboral siempre pueden existir desacuerdos, lo que ocasiona, de alguna forma, que el contrato de trabajo pueda ser terminado, sea por pacto expreso entre las partes, por una disposición legal, por una justa causa por cualquiera de las partes o, unilateralmente, sin que exista justa causa. La terminación del contrato de trabajo incluye el pago de todas las cantidades adeudadas al empleado, en el momento de la rescisión del contrato.

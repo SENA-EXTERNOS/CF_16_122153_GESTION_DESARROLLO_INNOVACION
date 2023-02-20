@@ -209,13 +209,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Código Sustantivo de Trabajo (CST). DO No 27.622 del 7 de junio de 1951. (Colombia). ',
+        'Ministerio de Protección Social. (2011). <em>Código Sustantivo de Trabajo (CST)</em>. DO No 27.622 del 7 de junio de 1951. (Colombia). ',
       link:
         'https://www.ilo.org/dyn/travail/docs/1539/CodigoSustantivodelTrabajoColombia.pdf ',
     },
     {
       referencia:
-        'Rivera, D. M., Rivera Zarate, D. F. & Angulo Guiza, U. G. (2022).<em> Cartilla laboral Teoría y práctica 2022: Medidas laborales, seguridad social y nómina electrónica.</em> Ediciones de la U. ',
+        'Rivera, D. M., Rivera Zarate, D. F. & Angulo Guiza, U. G. (2022). <em>Cartilla laboral Teoría y práctica 2022: Medidas laborales, seguridad social y nómina electrónica.</em> Ediciones de la U. ',
       link: '',
     },
   ],
