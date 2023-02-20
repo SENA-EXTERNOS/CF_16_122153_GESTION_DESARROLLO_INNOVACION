@@ -21,14 +21,10 @@
       .col-lg-11
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--yellow")
           .row(titulo="Devengos ")
-
             .col-md-2
               figure
                 img(src='@/assets/curso/temas/tema2/img1.svg', alt='Texto que describa la imagen').dimensionimg
-                
-
             .col-md-8.mb-4.mb-md-0
-              
               p Son aquellas sumas pagadas al trabajador como retribución de sus servicios. Entre estos conceptos, se encuentran aquellos pagados directamente como remuneración salarial y son la parte que suma dentro de una nómina. En el apartado de devengos, existen los salariales y los no salariales.
               p.mt-3.mb-1 Son clasificados como salariales:          
               
@@ -75,7 +71,6 @@
 
               
 
-            .col-sm.mb-5.mb-sm-0
             
 
           .row(titulo="Deducciones")
