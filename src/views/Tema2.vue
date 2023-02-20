@@ -24,63 +24,60 @@
             .col-md-2
               figure
                 img(src='@/assets/curso/temas/tema2/img1.svg', alt='Texto que describa la imagen').dimensionimg
-            .col-md-8.mb-4.mb-md-0
+            .col-md-9.mb-4.mb-md-0
               p Son aquellas sumas pagadas al trabajador como retribución de sus servicios. Entre estos conceptos, se encuentran aquellos pagados directamente como remuneración salarial y son la parte que suma dentro de una nómina. En el apartado de devengos, existen los salariales y los no salariales.
-              p.mt-3.mb-1 Son clasificados como salariales:          
+              p.mt-3.mb-2 Son clasificados como salariales:          
               
-              ul.lista-ul
+              ul.lista-ul--color.morado.mb-4
                 li 
-                  i.lista-ul__vineta 
-                  | Salario base: corresponde al pago mensual mínimo que recibirá un trabajador.
-                
+                  i.fas.fa-check
+                  p.mb-0
+                    b Salario base: 
+                    | corresponde al pago mensual mínimo que recibirá un trabajador.
                 li 
-                  i.lista-ul__vineta
-                  | Complementos salariales: son percepciones económicas que se añaden al salario base, por una causa específica y determinada, derivada de la prestación del trabajo.
-
+                  i.fas.fa-check
+                  p.mb-0
+                    b Complementos salariales: 
+                    | son percepciones económicas que se añaden al salario base, por una causa específica y determinada, derivada de la prestación del trabajo.
                 li 
-                  i.lista-ul__vineta
-                  | Horas extraordinarias: las horas extraordinarias son las cantidades de tiempo adicionales que un trabajador realiza, además de su jornada de trabajo.
-
+                  i.fas.fa-check
+                  p.mb-0
+                    b Horas extraordinarias: 
+                    | las horas extraordinarias son las cantidades de tiempo adicionales que un trabajador realiza, además de su jornada de trabajo.
                 li 
-                  i.lista-ul__vineta
-                  | Pagos extras: según cada convenio o acuerdo, entre empleado y empresa.
-
+                  i.fas.fa-check
+                  p.mb-0
+                    b Pagos extras: 
+                    | según cada convenio o acuerdo, entre empleado y empresa.
                 li 
-                  i.lista-ul__vineta
-                  | Mejoras voluntarias: el sueldo que se percibe como salario en especie o retribución.
+                  i.fas.fa-check
+                  p.mb-0
+                    b Mejoras voluntarias: 
+                    | el sueldo que se percibe como salario en especie o retribución.
 
+              p.mt-.mb-2 Por otra parte, los no salariales son los que se compensan, como:
 
-              p.mt-2.mb-1 Por otra parte, los no salariales son los que se compensan, como:
-
-              ul.lista-ul
+              ul.lista-ul--color.morado
                 li 
-                  i.lista-ul__vineta
+                  i.fas.fa-check
                   |  Indemnizaciones. 
-                
                 li 
-                  i.lista-ul__vineta
+                  i.fas.fa-check
                   |  Prestaciones de seguridad social.
-
                 li 
-                  i.lista-ul__vineta
+                  i.fas.fa-check
                   |  Indemnizaciones por traslados.
-
                 li 
-                  i.lista-ul__vineta
+                  i.fas.fa-check
                   |  Suspensión o despido.
-
-              
 
             
 
           .row(titulo="Deducciones")
-
             .col-md-2
               figure
                 img(src='@/assets/curso/temas/tema2/img2.svg', alt='Texto que describa la imagen').dimensionimg
-                
-
-            .col-md-8.mb-4.mb-md-0
+            .col-md-9.mb-4.mb-md-0
               p Son descuentos del monto total devengado por el trabajador, es decir, la suma de los salarios percibidos durante un mes o una quincena, son conceptos o valores descontados de la nómina. Estas deducciones se encuentran previstas en la ley, y se llevan a cabo para efectos de realizar los aportes a seguridad social, sobre el porcentaje que deba ser asumido por el trabajador.
               p.mt-3 Dentro de los valores que se deducen de la nómina tenemos:
 
@@ -88,34 +85,27 @@
                 li 
                   i.lista-ul__vineta
                   |  Aporte a la salud.
-                
                 li 
                   i.lista-ul__vineta
                   |  Aporte a la pensión.
-
                 li 
                   i.lista-ul__vineta
                   |  Fondo de solidaridad.
                 li 
                   i.lista-ul__vineta
                   |  Cuotas sindicales.
-
                 li 
                   i.lista-ul__vineta
                   |  Aportes a cooperativas.
-
                 li 
                   i.lista-ul__vineta
                   |  Embargos.
-
                 li 
                   i.lista-ul__vineta
                   |  Créditos.
-
                 li 
                   i.lista-ul__vineta
                   |  Deudas.
-
                 li 
                   i.lista-ul__vineta
                   |  Retención en la fuente.
