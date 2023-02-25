@@ -81,34 +81,34 @@
               p Son descuentos del monto total devengado por el trabajador, es decir, la suma de los salarios percibidos durante un mes o una quincena, son conceptos o valores descontados de la nómina. Estas deducciones se encuentran previstas en la ley, y se llevan a cabo para efectos de realizar los aportes a seguridad social, sobre el porcentaje que deba ser asumido por el trabajador.
               p.mt-3 Dentro de los valores que se deducen de la nómina tenemos:
 
-              ul.lista-ul
+              ul.lista-ul--color.morado.mb-4
+                li
+                  i.fas.fa-check
+                  | Aporte a la salud.
                 li 
-                  i.lista-ul__vineta
-                  |  Aporte a la salud.
+                  i.fas.fa-check
+                  | Aporte a la pensión.
                 li 
-                  i.lista-ul__vineta
-                  |  Aporte a la pensión.
+                  i.fas.fa-check
+                  | Fondo de solidaridad.
                 li 
-                  i.lista-ul__vineta
-                  |  Fondo de solidaridad.
+                  i.fas.fa-check
+                  | Cuotas sindicales.
                 li 
-                  i.lista-ul__vineta
-                  |  Cuotas sindicales.
+                  i.fas.fa-check
+                  | Aportes a cooperativas.
                 li 
-                  i.lista-ul__vineta
-                  |  Aportes a cooperativas.
+                  i.fas.fa-check
+                  | Embargos.
                 li 
-                  i.lista-ul__vineta
-                  |  Embargos.
+                  i.fas.fa-check
+                  | Créditos.
                 li 
-                  i.lista-ul__vineta
-                  |  Créditos.
+                  i.fas.fa-check
+                  | Deudas.
                 li 
-                  i.lista-ul__vineta
-                  |  Deudas.
-                li 
-                  i.lista-ul__vineta
-                  |  Retención en la fuente.
+                  i.fas.fa-check
+                  | Retención en la fuente.
 
               p.mt-3 Es necesario dejar en claro que la empresa, la compañía u organización, no podrá retener ningún valor del salario de un empleado sin el consentimiento expreso del mismo, a menos que lo ordene un tribunal competente.
       
