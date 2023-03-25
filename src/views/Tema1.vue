@@ -127,7 +127,7 @@
                 img(src='@/assets/curso/temas/tema1/img5.png', alt='Texto que describa la imagen')
 
           h3.text-center Por labor de obra
-          p.text-center.text-small El contrato dura tanto como dure la obra o labor encomendada. Es fundamental consignar expresamente la obra o labor de que se trate. 
+          p.text-center El contrato dura tanto como dure la obra o labor encomendada. Es fundamental consignar expresamente la obra o labor de que se trate. 
 
       .col-sm-8.col-lg-4.mb-4.mb-lg-0
         .tarjeta.color-yellow.p-4
@@ -137,7 +137,7 @@
                 img(src='@/assets/curso/temas/tema1/img6.png', alt='Texto que describa la imagen')
 
           h4.text-center Por tiempo indefinido
-          p.text-center.text-small  Se entiende este contrato cuando las partes no determinan su duración. Esta modalidad de contrato puede celebrarse verbalmente o por escrito.
+          p.text-center  Se entiende este contrato cuando las partes no determinan su duración. Esta modalidad de contrato puede celebrarse verbalmente o por escrito.
 
       .col-sm-8.col-lg-4.mb-4.mb-lg-0
         .tarjeta.color-yellow.p-4
@@ -147,7 +147,7 @@
                 img(src='@/assets/curso/temas/tema1/img7.png', alt='Texto que describa la imagen')
 
           h4.text-center Trabajo ocasional, accidental o transitorio
-          p.text-center.text-small  Se entienden aquellos de corta duración, inferiores a un mes, siempre que se trate de labores ajenas a las actividades normales del empleador.
+          p.text-center  Se entienden aquellos de corta duración, inferiores a un mes, siempre que se trate de labores ajenas a las actividades normales del empleador.
 
 
     separador
@@ -402,9 +402,9 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-4.mb-sm-0
                       h4.mb-1 Causales de terminación del contrato de trabajo e indemnizaciones.
-                      p.text-small Para ampliar la información, lo invitamos a leer el PDF #[b Causales de terminación del contrato de trabajo e indemnizaciones.] 
+                      p Para ampliar la información, lo invitamos a leer el PDF #[b Causales de terminación del contrato de trabajo e indemnizaciones.] 
                     .col-sm-auto
-                      a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Causales de terminación del contrato.pdf')" target="_blank")
+                      a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Causales_de_terminacion_del_contrato.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
 

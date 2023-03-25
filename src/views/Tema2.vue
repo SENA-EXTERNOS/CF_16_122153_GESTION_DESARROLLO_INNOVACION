@@ -284,32 +284,32 @@
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/slider1.svg' alt='AvatarTop')
         .tarjeta.tarjeta--amarilla-1.p-4
-          p.text-center.text-small Salario.
+          p.text-center Salario.
 
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/slider2.svg' alt='AvatarTop')
         .tarjeta.tarjeta--amarilla-1.p-4
-          p.text-center.text-small Prima de servicios.
+          p.text-center Prima de servicios.
 
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/slider3.svg' alt='AvatarTop')
         .tarjeta.tarjeta--amarilla-1.p-4
-          p.text-center.text-small Auxilio de cesantías.
+          p.text-center Auxilio de cesantías.
 
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/slider4.svg' alt='AvatarTop')
         .tarjeta.tarjeta--amarilla-1.p-4
-          p.text-center.text-small Horas extras.
+          p.text-center Horas extras.
       
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/slider5.svg' alt='AvatarTop')
         .tarjeta.tarjeta--amarilla-1.p-4
-          p.text-center.text-small Recargos nocturnos.
+          p.text-center Recargos nocturnos.
       
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/slider6.svg' alt='AvatarTop')
         .tarjeta.tarjeta--amarilla-1.p-4
-          p.text-center.text-small Trabajo dominical y festivo.
+          p.text-center Trabajo dominical y festivo.
 
 
 
