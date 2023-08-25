@@ -147,7 +147,7 @@ export default {
       referencia:
         'Videos Siigo. (2020). <em>Siigo Nube – Aprende todo lo que puedes hacer con tu software administrativo</em> (video). YouTube.  ',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=Njn33SBa5SI',
+      link: 'https://www.youtube.com/watch?v=J5bFwtXDXf4',
     },
     {
       tema:

@@ -100,18 +100,18 @@
               img(src='@/assets/curso/temas/tema1/img4.png' )
         .col-lg-9
             
-            TabsA.color-acento-contenido.mb-5.mt-5
-              .tarjeta.colorverde.p-4(titulo="Según su forma")
+            TabsC.color-acento-contenido.mb-5.mt-5
+              .tarjeta.colorverde.p-4.mb-3(titulo="Según su forma")
                 .row                  
                   .col-xl-11
-                    h4 Según su forma
+
                     p Puede ser verbal o escrito; el verbal tiene lugar cuando, por el simple acuerdo expresado oralmente, las partes convienen en la índole del trabajo y el sitio en donde se debe realizar, así como también la cuantía y la forma de remuneración; el escrito consta de un documento firmado por las partes y contiene algunos ítems importantes como: la duración de dicho contrato, la identificación y domicilio de los interesados, lugar y fecha de celebración, cuantía de la remuneración, forma y periodos de pago, y terminación del contrato.
               
-              .tarjeta.colorverde.p-4(titulo="Según su duración")
+              .tarjeta.colorverde.p-4.mb-3(titulo="Según su duración")
                 .row
                   
                   .col-xl-11
-                    h4 Según su duración 
+
                     p Se puede llevar cabo por tiempo fijo, incluido lo determinado por labor de obra, o por tiempo indefinido, para ejecutar un trabajo ocasional, accidental o transitorio. Por tiempo fijo o determinado, debe celebrarse por escrito y su duración no puede ser superior a tres años y admite, al menos, dos modalidades: el contrato a término fijo inferior a un año, que no tiene término mínimo de duración, y el contrato a término fijo de duración entre uno y tres años; cabe aclarar que puede ser renovado indefinidamente.
         
         
