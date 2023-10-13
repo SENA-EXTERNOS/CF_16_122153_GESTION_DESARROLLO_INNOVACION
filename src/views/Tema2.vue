@@ -201,13 +201,13 @@
 
 
 
-    .row.justify-content-around.mt-4
-        .col-lg-3
-          img(src='@/assets/curso/temas/tema2/img7.png' )
-        .col-lg-3        
-          img(src='@/assets/curso/temas/tema2/img8.png' )
-        .col-lg-3
-          img(src='@/assets/curso/temas/tema2/img9.png' )
+    .row.justify-content-center.mt-4
+      .col-xl-3.col-lg-4.col-6.mb-4
+        img(src='@/assets/curso/temas/tema2/img7.png' )
+      .col-xl-3.col-lg-4.col-6.mb-4        
+        img(src='@/assets/curso/temas/tema2/img8.png' )
+      .col-xl-3.col-lg-4.col-6.mb-4
+        img(src='@/assets/curso/temas/tema2/img9.png' )
         
 
     .row.justify-content-around.mt-4
@@ -255,7 +255,7 @@
             .col-md-11.mb-4.mb-md-0
               p Es una prestación social que debe pagar el empleador que tenga carácter de empresa, con la finalidad que sus trabajadores disfruten por las utilidades que arroja la empresa. Se pagará, por concepto de prima de servicios, 30 días de salario por cada año de prestación del servicio, los cuales se pagan de forma semestral por partes iguales, el quince de junio y el 20 de diciembre.
               b.mt-1 Fórmula para liquidar la prima de servicios = valor del promedio del salario mensual x los días laborados en el semestre / 360. 
-      .col-lg-4
+      .col-lg-4.col-8
           figure
             img(src='@/assets/curso/temas/tema2/img11.svg', alt='Texto que describa la imagen')
             
@@ -280,35 +280,35 @@
     p.mt-4 El salario integral incluye los siguientes conceptos:
 
 
-    SlyderF.mb-5.mt-5(columnas="col-lg-4 col-xl-3")
+    SlyderF.mb-5.mt-5(columnas="col-6 col-md-4 col-xl-3")
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/slider1.svg' alt='AvatarTop')
-        .tarjeta.tarjeta--amarilla-1.p-4
+        .tarjeta.tarjeta--amarilla-1.w-100.h-100.p-4
           p.text-center Salario.
 
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/slider2.svg' alt='AvatarTop')
-        .tarjeta.tarjeta--amarilla-1.p-4
+        .tarjeta.tarjeta--amarilla-1.w-100.h-100.p-4
           p.text-center Prima de servicios.
 
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/slider3.svg' alt='AvatarTop')
-        .tarjeta.tarjeta--amarilla-1.p-4
+        .tarjeta.tarjeta--amarilla-1.w-100.h-100.p-4
           p.text-center Auxilio de cesantías.
 
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/slider4.svg' alt='AvatarTop')
-        .tarjeta.tarjeta--amarilla-1.p-4
+        .tarjeta.tarjeta--amarilla-1.w-100.h-100.p-4
           p.text-center Horas extras.
       
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/slider5.svg' alt='AvatarTop')
-        .tarjeta.tarjeta--amarilla-1.p-4
+        .tarjeta.tarjeta--amarilla-1.w-100.h-100.p-4
           p.text-center Recargos nocturnos.
       
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/slider6.svg' alt='AvatarTop')
-        .tarjeta.tarjeta--amarilla-1.p-4
+        .tarjeta.tarjeta--amarilla-1.w-100.h-100.p-4
           p.text-center Trabajo dominical y festivo.
 
 

@@ -138,6 +138,8 @@ figcaption
   background-color: rgba(255, 255, 255, 0.8)
   position: sticky
   width: 60%
+  @media (max-width: $bp-max-md)
+    width: 100%
 
 
 ///////// Card hover --------------------------------------
@@ -190,20 +192,6 @@ figcaption
 
 .textmargin
   margin-top: -6px
-
-
-.tarjeta-avatar
-  width: 100px
-  height: 200px
-@media (max-width:100px)  
-  .tarjeta-avatar
-    width: 300px
-    height: 788px
-.tarjeta-avatar .tarjeta
-  height: 102%
-  width: 220px
-.tarjeta-avatar > img 
-  left: 118%
    
 .lista-ol li, .lista-ol--cuadro li, .lista-ul li, .lista-ul--separador li, .lista-ul--color li 
   margin-bottom: 0px
@@ -237,19 +225,6 @@ figcaption
   width: 125px
   margin: 0 auto
 
-.tarjeta-avatar.tema-1 
-  width: 100%
-  height: 100%
-.tarjeta-avatar.tema-1 .tarjeta
-  display: inline-block
-  padding-top: 60px !important
-  height: 100%
-  width: 100%
-.tarjeta-avatar.tema-1 > img
-  position: absolute
-  left: 50%
-  width: 125px
-
 @media (min-width:$bp-min-xl) and (max-width:$bp-max-xl)  
   .banner-principal-decorativo-5
     width: 445px
@@ -267,4 +242,7 @@ figcaption
   width: 490px !important
 
 .tabs-c__tab--active
-  font-weight: bold  
+  font-weight: bold
+
+.lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li
+  display: flex

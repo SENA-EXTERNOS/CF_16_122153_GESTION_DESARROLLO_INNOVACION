@@ -24,7 +24,7 @@
       .col-lg-8
         p El Código Sustantivo del Trabajo, permite tener una guía para los trabajadores y empresarios en cuanto a relaciones laborales; estas normas han entrado en vigor en diferentes momentos y es deber de los entes gubernamentales reguladores, mantenerlo actualizado en caso de modificaciones.
         p.mt-3 Cuando una ley es derogada, quiere decir que no se le puede dar validez a su contenido y se debe indagar por la nueva ley que tenga vigencia. Es por esto por lo que debemos consultar el código sustantivo actualizado y, preferiblemente, que contenga comentarios o notas de vigencia, para conocer la fecha en que se actualizó cada norma. 
-      .col-lg-3
+      .col-lg-3.col-6
         figure
           img(src='@/assets/curso/temas/tema1/img2.png', alt='Texto que describa la imagen').imagen-deco
     
@@ -33,7 +33,7 @@
           .col-9
             .tarjeta.colorverde.mt-2.p-3
               .row.justify-content-around.align-items-center
-                .col-lg-1.mb-3
+                .col-lg-1.col-2.mb-3
                   img(src="@/assets/curso/temas/tema1/img3.png" )
                 .col-10
                   .row.justify-content-between.align-items-center
@@ -95,7 +95,7 @@
 
 
       .row
-        .col-lg-3.mt-5
+        .col-lg-3.col-6.mt-5
             figure
               img(src='@/assets/curso/temas/tema1/img4.png' )
         .col-lg-9
@@ -292,38 +292,38 @@
     .row.justify-content-center.mb-5.mt-5
       .col-lg-8
         .cajon.color-primario.verde.p-4           
-          p.mb-0 #[i Uno de los derechos básicos reconocidos por el Estado, es la igualdad humana. De acuerdo con el artículo 10 del Código Sustantivo del Trabajo, se establece que “Todos los trabajadores y trabajadoras, son iguales ante la ley y tienen la misma protección y garantías”.]
+          p.mb-0 Uno de los derechos básicos reconocidos por el Estado, es la igualdad humana. De acuerdo con el artículo 10 del Código Sustantivo del Trabajo, se establece que “Todos los trabajadores y trabajadoras, son iguales ante la ley y tienen la misma protección y garantías”.
 
     p Por lo tanto, son conocidos como derechos del trabajador:
 
 
 
-    SlyderF.mt-5(columnas="col-lg-4 col-xl-3")
+    SlyderF.mt-5(columnas="col-6 col-md-4 col-xl-3")
       
       .tarjeta-avatar
-        img(src='@/assets/curso/temas/tema1/salider1.png' alt='AvatarTop')
-        .tarjeta.tarjeta--yellow1.p-5         
-          p.text-center Libertad de trabajo.
+        img(src='@/assets/curso/temas/tema1/salider1.png')
+        .tarjeta.tarjeta--yellow1.h-100.py-5.px-4         
+          p.mb-0.text-center Libertad de trabajo.
 
       .tarjeta-avatar
-        img(src='@/assets/curso/temas/tema1/slider2.png' alt='AvatarTop')
-        .tarjeta.tarjeta--yellow1.p-5     
-          p.text-center Protección al trabajo.
+        img(src='@/assets/curso/temas/tema1/slider2.png')
+        .tarjeta.tarjeta--yellow1.h-100.py-5.px-4     
+          p.mb-0.text-center Protección al trabajo.
       .tarjeta-avatar
-        img(src='@/assets/curso/temas/tema1/slider3.png' alt='AvatarTop')
-        .tarjeta.tarjeta--yellow1.p-5
-          p.text-center Igualdad de los trabajadores.
+        img(src='@/assets/curso/temas/tema1/slider3.png')
+        .tarjeta.tarjeta--yellow1.h-100.py-5.px-4
+          p.mb-0.text-center Igualdad de los trabajadores.
 
       .tarjeta-avatar
-        img(src='@/assets/curso/temas/tema1/img25.png' alt='AvatarTop')
-        .tarjeta.tarjeta--yellow1.p-5
-          p.text-center Derecho al trabajo.
+        img(src='@/assets/curso/temas/tema1/img25.png')
+        .tarjeta.tarjeta--yellow1.h-100.py-5.px-4
+          p.mb-0.text-center Derecho al trabajo.
 
       .tarjeta-avatar
-        img(src='@/assets/curso/temas/tema1/img26.png' alt='AvatarTop')
-        .tarjeta.tarjeta--yellow1.p-4
+        img(src='@/assets/curso/temas/tema1/img26.png')
+        .tarjeta.tarjeta--yellow1.h-100.py-5.px-4
      
-          p.text-center Derechos de asociación y huelga.
+          p.mb-0.text-center Derechos de asociación y huelga.
 
     .row.justify-content-center.mt-5
       .col-lg-10
@@ -396,7 +396,7 @@
           .col-9
             .tarjeta.bg8.mt-2.p-3.color-dowload
               .row.justify-content-around.align-items-center
-                .col-lg-1.mb-3
+                .col-lg-1.col-2.mb-3
                   img(src="@/assets/curso/temas/tema1/img5.svg" )
                 .col-11
                   .row.justify-content-between.align-items-center

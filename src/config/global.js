@@ -140,15 +140,6 @@ export default {
       link:
         'https://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/compilacion-marcos-tecnicos-de-informacion-financi/1534369239-2962',
     },
-
-    {
-      tema:
-        'Hojas de cálculo para la generación de informes financieros y <em>software</em> contable ',
-      referencia:
-        'Videos Siigo. (2020). <em>Siigo Nube – Aprende todo lo que puedes hacer con tu software administrativo</em> (video). YouTube.  ',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=J5bFwtXDXf4',
-    },
     {
       tema:
         'Hojas de cálculo para la generación de informes financieros y <em>software</em> contable',
