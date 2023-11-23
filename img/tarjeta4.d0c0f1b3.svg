@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <g id="Grupo_152691" data-name="Grupo 152691" transform="translate(-1138 -5565)">
+    <g id="Grupo_152447" data-name="Grupo 152447" transform="translate(0 20)">
+      <g id="Grupo_149666" data-name="Grupo 149666" transform="translate(203 -1590)">
+        <g id="Elipse_5972" data-name="Elipse 5972" transform="translate(935 7135)" fill="#fff" stroke="#77b43a" stroke-width="4">
+          <circle cx="75" cy="75" r="75" stroke="none"/>
+          <circle cx="75" cy="75" r="73" fill="none"/>
+        </g>
+      </g>
+      <g id="Grupo_150583" data-name="Grupo 150583" transform="translate(59.717 4816.127)">
+        <path id="Trazado_202740" data-name="Trazado 202740" d="M1169.6,810.95c0-5.793-3.771-9.287-13.346-11.969-6.915-1.971-9.74-3.38-9.74-5.424,0-1.778,1.685-3.627,6.914-3.627a30.151,30.151,0,0,1,11.589,2.24l-.062-7.2a24.152,24.152,0,0,0-9.266-2.107V780.14h-7.89v3.174c-8.6,1.274-13.593,5.671-13.593,11.332,0,6.185,5.877,9.36,14.486,11.65,6.03,1.6,8.61,3.134,8.61,5.549,0,2.475-3.145,3.944-7.808,3.944A34.509,34.509,0,0,1,1136.135,813l.062,7.849a42.51,42.51,0,0,0,11.2,2.333v2.764h7.963v-3.278C1164.615,821.461,1169.6,816.621,1169.6,810.95Z" transform="translate(1.132 0.79)" fill="#f85316" stroke="#161615" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"/>
+        <g id="Grupo_150582" data-name="Grupo 150582" transform="translate(1102.283 757.873)">
+          <path id="Trazado_202741" data-name="Trazado 202741" d="M1152.677,764.4a39.417,39.417,0,0,1,38.231,29.861l-2.289.132-4.862.28,10.616,11.514,9.218-12.655-5.125.3-.93.054a45.95,45.95,0,0,0-89.811.4h6.717A39.417,39.417,0,0,1,1152.677,764.4Z" transform="translate(-1102.09 -757.873)" fill="#3d46c2" stroke="#090808" stroke-width="1"/>
+          <path id="Trazado_202742" data-name="Trazado 202742" d="M1152.87,841.6a39.41,39.41,0,0,1-37.143-26.259l1.466-.157,4.842-.521-11.175-10.974-8.577,13.1,5.1-.549,1.677-.181a45.946,45.946,0,0,0,88.755-4.305H1191.1A39.42,39.42,0,0,1,1152.87,841.6Z" transform="translate(-1102.283 -756.248)" fill="#75b62f" stroke="#090808" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
